@@ -1,0 +1,15 @@
+Metric,Value
+Classification_Accuracy,0.611111
+Classification_Precision,0.582407
+Classification_Recall,0.611111
+Classification_Macro_F1,0.565079
+Classification_Weighted_F1,0.565079
+Classification_Cohen_Kappa,0.533333
+Segmentation_Mean_IoU,0.578419
+Segmentation_Precision,0.84121
+Segmentation_Recall,0.63361
+Segmentation_F1,0.720709
+Segmentation_Debris_IoU,0.097046
+Segmentation_Snow_IoU,0.448602
+Segmentation_Cloud_IoU,0.381282
+Segmentation_Moraine_IoU,0.474759
