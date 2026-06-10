@@ -1,6 +1,6 @@
 # 🏔️ GLOF Eagles 2026 — V14 Dual-Task Pipeline
 ## YOUTUBE VIDEO LINK 
-[Watch the Project Demonstration Video]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/QegcqrI3b38?si=OBCqAut1vDe70vHe))
+[Watch the Project Demonstration Video](https://youtu.be/QegcqrI3b38?si=OBCqAut1vDe70vHe)
 
 ## Overview
 Complete dual-task pipeline for glacial lake detection:
