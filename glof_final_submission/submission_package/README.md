@@ -1,4 +1,4 @@
-# 🏔️ GLOF Eagles 2026 — V14 Dual-Task Pipeline
+#  GLOF Eagles 2026 
 
 ## Overview
 Complete dual-task pipeline for glacial lake detection:
