@@ -1,4 +1,4 @@
-# V14 Technical Report
+# Technical Report
 
 ## Classification Ablation (Mean across Folds 0, 1, 2)
 ```
@@ -24,9 +24,4 @@ Curriculum_HardMining  0.546513   0.902048 0.580070 0.693392    0.070214  0.4256
 - Hard-example mining via Debris/Snow oversampling boosts underperforming categories
 - Multi-scale curriculum combines the benefits of diverse zoom levels
 
-## Deliverables Generated
-- classification_predictions.csv
-- classification_report.csv
-- confusion_matrix.png
-- All model weights in all_model_weights/
-- Submission package in submission_package/
+
