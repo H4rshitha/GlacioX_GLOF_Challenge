@@ -1,4 +1,4 @@
-# 🏔️ GLOF Eagles 2026 
+#  GLOF Eagles 2026 
 ## YOUTUBE VIDEO LINK 
 [Watch the Project Demonstration Video](https://youtu.be/QegcqrI3b38?si=OBCqAut1vDe70vHe)
 
