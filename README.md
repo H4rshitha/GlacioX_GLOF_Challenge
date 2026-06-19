@@ -1,4 +1,4 @@
-#  GLOF Eagles 2026 — Dual-Task Glacial Lake Detection Pipeline
+#  GLOF Eagles 2026 
 
 ## Explanation Video
 
