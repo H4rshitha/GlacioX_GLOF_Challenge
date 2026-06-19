@@ -1,6 +1,5 @@
 # Technical Report
 
-This run generated the full evaluation pipeline, exported the models, and computed classification and segmentation metrics.
 # GLOF Challenge Validation Phase Technical Report
 
 This technical report documents the dataset, pipeline architecture, training details, optimization strategy, evaluation results, and failure mode analysis for the validation phase of the **Glacial Lake Outburst Flood (GLOF)** detection challenge.
