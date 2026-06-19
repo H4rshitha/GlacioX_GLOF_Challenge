@@ -19,12 +19,6 @@ A complete, production-ready dual-task deep learning pipeline designed for the *
 - **Classifier:** `EfficientNet-B4` (loaded via `timm`) pre-trained on ImageNet, optimized using cross-entropy loss with label smoothing ($0.1$).
 - **Segmenter:** `UNet++` with an `EfficientNet-B4` encoder (loaded via `segmentation_models_pytorch`), trained with a hybrid loss: $50\%$ Focal Loss + $50\%$ Tversky Loss.
 
-### Key Engineering Features
-- **Category-Aware Patch Mining:** Dynamically adjusts zoom factor depending on class characteristics ($3.0\times$ zoom for tiny lakes under `Debris Cover`, $2.5\times$ zoom for `Snow Cover`) to focus on lake boundaries.
-- **Hard-Example Oversampling:** Multiplies underrepresented or difficult classes (`Debris Cover` and `Snow Cover` oversampled $2\times$) to prevent network bias.
-- **Multi-Scale Curriculum Training:** Trains the network using progressively larger patch sizes to build robust scale-invariant representations.
-- **Boundary-Focused Crop Generation:** Generates crops centered along contours to enforce sharp, precise segmentation boundaries.
-
 ---
 
 ##  Cross-Validation Performance (Training Phase)
