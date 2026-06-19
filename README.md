@@ -1,9 +1,10 @@
 #  GLOF Eagles 2026 — Dual-Task Glacial Lake Detection Pipeline
 
 ## Explanation Video
-[![GLOF Eagles 2026 Demonstration](https://img.shields.io/badge/YouTube-Demonstration%20Video-red?style=for-the-badge&logo=youtube)]([https://youtu.be/QegcqrI3b38?si=OBCqAut1vDe70vHe](https://youtu.be/1hpBj9pNhYY))
-> **[Watch the Project Demonstration Video]([https://youtu.be/QegcqrI3b38?si=OBCqAut1vDe70vHe](https://youtu.be/1hpBj9pNhYY))**
 
+[![GLOF Eagles 2026 Demonstration](https://img.shields.io/badge/YouTube-Demonstration%20Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/1hpBj9pNhYY)
+
+> **[Watch the Project Demonstration Video](https://youtu.be/1hpBj9pNhYY)**
 ---
 
 ##  Overview
