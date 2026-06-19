@@ -1,0 +1,2221 @@
+image_id,true_class,predicted_class,correct
+1148,Moraine Dammed,Moraine,False
+1350,Moraine Dammed,Snow Cover,False
+2054,Terrain Shadow,Terraine Shadow,False
+810,Moraine Dammed,Moraine,False
+2063,Snow Cover,Snow Cover,True
+122,Snow Cover,Snow Cover,True
+263,Terrain Shadow,Terraine Shadow,False
+2058,Snow Cover,Snow Cover,True
+1198,Snow Cover,Snow Cover,True
+1956,Moraine Dammed,Moraine,False
+1821,Moraine Dammed,Moraine,False
+623,Snow Cover,Snow Cover,True
+1852,Terrain Shadow,Terraine Shadow,False
+267,Snow Cover,Snow Cover,True
+357,Debris Cover,Debris Cover,True
+1827,Varying Turbidity,Turbidity,False
+1242,Moraine Dammed,Moraine,False
+2348,Snow Cover,Terraine Shadow,False
+1380,Moraine Dammed,Moraine,False
+271,Snow Cover,Snow Cover,True
+1231,Snow Cover,Snow Cover,True
+1587,Moraine Dammed,Moraine,False
+1319,Snow Cover,Snow Cover,True
+1092,Moraine Dammed,Snow Cover,False
+286,Snow Cover,Terraine Shadow,False
+1627,Debris Cover,Moraine,False
+1641,Moraine Dammed,Moraine,False
+1176,Snow Cover,Snow Cover,True
+1708,Terrain Shadow,Terraine Shadow,False
+621,Moraine Dammed,Moraine,False
+345,Snow Cover,Snow Cover,True
+290,Terrain Shadow,Snow Cover,False
+2242,Moraine Dammed,Moraine,False
+1977,Moraine Dammed,Moraine,False
+1492,Moraine Dammed,Moraine,False
+725,Cloud Cover,Cloud Cover,True
+126,Terrain Shadow,Terraine Shadow,False
+1248,Moraine Dammed,Moraine,False
+1544,Moraine Dammed,Moraine,False
+1270,Moraine Dammed,Moraine,False
+942,Moraine Dammed,Moraine,False
+68,Moraine Dammed,Moraine,False
+937,Snow Cover,Snow Cover,True
+825,Moraine Dammed,Moraine,False
+1625,Snow Cover,Snow Cover,True
+1646,Terrain Shadow,Terraine Shadow,False
+1942,Moraine Dammed,Snow Cover,False
+1164,Moraine Dammed,Snow Cover,False
+1604,Moraine Dammed,Moraine,False
+1862,Snow Cover,Snow Cover,True
+2275,Moraine Dammed,Moraine,False
+1882,Varying Turbidity,Turbidity,False
+111,Snow Cover,Snow Cover,True
+1782,Terrain Shadow,Moraine,False
+2195,Snow Cover,Moraine,False
+602,Snow Cover,Snow Cover,True
+1053,Snow Cover,Snow Cover,True
+10,Cloud Cover,Debris Cover,False
+435,Snow Cover,Snow Cover,True
+2017,Snow Cover,Snow Cover,True
+2072,Snow Cover,Snow Cover,True
+525,Snow Cover,Snow Cover,True
+2354,Snow Cover,Snow Cover,True
+1373,Snow Cover,Snow Cover,True
+2033,Snow Cover,Snow Cover,True
+2042,Moraine Dammed,Moraine,False
+2012,Terrain Shadow,Terraine Shadow,False
+1906,Moraine Dammed,Moraine,False
+1284,Snow Cover,Snow Cover,True
+2243,Snow Cover,Snow Cover,True
+1160,Snow Cover,Moraine,False
+689,Snow Cover,Snow Cover,True
+483,Debris Cover,Debris Cover,True
+1142,Moraine Dammed,Moraine,False
+2363,Moraine Dammed,Moraine,False
+1017,Moraine Dammed,Moraine,False
+779,Snow Cover,Snow Cover,True
+1272,Snow Cover,Snow Cover,True
+356,Moraine Dammed,Moraine,False
+25,Moraine Dammed,Moraine,False
+1430,Snow Cover,Moraine,False
+869,Snow Cover,Snow Cover,True
+1910,Moraine Dammed,Moraine,False
+96,Cloud Cover,Cloud Cover,True
+1843,Debris Cover,Debris Cover,True
+1363,Snow Cover,Snow Cover,True
+150,Moraine Dammed,Moraine,False
+1177,Snow Cover,Snow Cover,True
+186,Snow Cover,Snow Cover,True
+442,Moraine Dammed,Moraine,False
+1636,Moraine Dammed,Moraine,False
+427,Cloud Cover,Moraine,False
+1832,Moraine Dammed,Moraine,False
+2014,Debris Cover,Debris Cover,True
+8,Moraine Dammed,Moraine,False
+550,Moraine Dammed,Snow Cover,False
+248,Terrain Shadow,Terraine Shadow,False
+1994,Terrain Shadow,Terraine Shadow,False
+1600,Debris Cover,Debris Cover,True
+1180,Moraine Dammed,Moraine,False
+1613,Moraine Dammed,Moraine,False
+2258,Snow Cover,Terraine Shadow,False
+1337,Moraine Dammed,Moraine,False
+1015,Snow Cover,Snow Cover,True
+1228,Snow Cover,Snow Cover,True
+776,Debris Cover,Debris Cover,True
+757,Snow Cover,Snow Cover,True
+1267,Snow Cover,Snow Cover,True
+2234,Snow Cover,Snow Cover,True
+234,Moraine Dammed,Moraine,False
+1653,Snow Cover,Snow Cover,True
+918,Terrain Shadow,Terraine Shadow,False
+1026,Moraine Dammed,Moraine,False
+1581,Moraine Dammed,Moraine,False
+2298,Debris Cover,Debris Cover,True
+968,Moraine Dammed,Moraine,False
+1257,Moraine Dammed,Moraine,False
+2237,Moraine Dammed,Moraine,False
+487,Moraine Dammed,Moraine,False
+897,Snow Cover,Snow Cover,True
+108,Snow Cover,Snow Cover,True
+30,Moraine Dammed,Moraine,False
+14,Moraine Dammed,Moraine,False
+554,Moraine Dammed,Moraine,False
+881,Snow Cover,Snow Cover,True
+3,Moraine Dammed,Moraine,False
+293,Snow Cover,Snow Cover,True
+36,Moraine Dammed,Snow Cover,False
+1908,Snow Cover,Snow Cover,True
+91,Snow Cover,Snow Cover,True
+805,Snow Cover,Snow Cover,True
+459,Moraine Dammed,Moraine,False
+1376,Moraine Dammed,Moraine,False
+2338,Snow Cover,Snow Cover,True
+444,Snow Cover,Snow Cover,True
+565,Snow Cover,Moraine,False
+690,Terrain Shadow,Terraine Shadow,False
+842,Debris Cover,Snow Cover,False
+2315,Snow Cover,Snow Cover,True
+413,Snow Cover,Snow Cover,True
+974,Debris Cover,Debris Cover,True
+2027,Moraine Dammed,Moraine,False
+1889,Debris Cover,Debris Cover,True
+106,Terrain Shadow,Moraine,False
+773,Moraine Dammed,Moraine,False
+149,Snow Cover,Snow Cover,True
+1105,Debris Cover,Debris Cover,True
+1135,Snow Cover,Moraine,False
+2251,Moraine Dammed,Moraine,False
+1838,Snow Cover,Snow Cover,True
+2067,Snow Cover,Snow Cover,True
+1617,Moraine Dammed,Moraine,False
+1615,Moraine Dammed,Moraine,False
+827,Snow Cover,Snow Cover,True
+1574,Snow Cover,Snow Cover,True
+488,Cloud Cover,Cloud Cover,True
+308,Snow Cover,Snow Cover,True
+1809,Snow Cover,Moraine,False
+1387,Moraine Dammed,Moraine,False
+264,Snow Cover,Snow Cover,True
+1547,Moraine Dammed,Moraine,False
+2220,Moraine Dammed,Moraine,False
+831,Snow Cover,Snow Cover,True
+65,Moraine Dammed,Moraine,False
+1054,Snow Cover,Debris Cover,False
+2131,Snow Cover,Snow Cover,True
+2311,Moraine Dammed,Moraine,False
+2155,Moraine Dammed,Moraine,False
+2081,Snow Cover,Moraine,False
+1153,Snow Cover,Snow Cover,True
+1879,Snow Cover,Snow Cover,True
+2109,Terrain Shadow,Terraine Shadow,False
+67,Moraine Dammed,Moraine,False
+58,Terrain Shadow,Terraine Shadow,False
+327,Moraine Dammed,Moraine,False
+2285,Moraine Dammed,Debris Cover,False
+563,Moraine Dammed,Moraine,False
+761,Debris Cover,Debris Cover,True
+1048,Terrain Shadow,Terraine Shadow,False
+283,Terrain Shadow,Terraine Shadow,False
+2326,Snow Cover,Snow Cover,True
+2301,Moraine Dammed,Moraine,False
+493,Terrain Shadow,Terraine Shadow,False
+60,Moraine Dammed,Moraine,False
+1663,Moraine Dammed,Moraine,False
+2023,Moraine Dammed,Moraine,False
+56,Terrain Shadow,Moraine,False
+935,Terrain Shadow,Terraine Shadow,False
+928,Snow Cover,Snow Cover,True
+2230,Debris Cover,Snow Cover,False
+2305,Snow Cover,Snow Cover,True
+1036,Moraine Dammed,Moraine,False
+2352,Moraine Dammed,Moraine,False
+1564,Varying Turbidity,Turbidity,False
+1639,Moraine Dammed,Moraine,False
+2127,Snow Cover,Snow Cover,True
+929,Moraine Dammed,Moraine,False
+142,Terrain Shadow,Terraine Shadow,False
+2073,Terrain Shadow,Terraine Shadow,False
+838,Moraine Dammed,Moraine,False
+443,Moraine Dammed,Moraine,False
+1448,Terrain Shadow,Terraine Shadow,False
+100,Snow Cover,Snow Cover,True
+2190,Moraine Dammed,Moraine,False
+1618,Moraine Dammed,Moraine,False
+62,Moraine Dammed,Moraine,False
+730,Moraine Dammed,Moraine,False
+1723,Moraine Dammed,Moraine,False
+1390,Terrain Shadow,Terraine Shadow,False
+118,Snow Cover,Snow Cover,True
+1447,Moraine Dammed,Moraine,False
+2357,Snow Cover,Snow Cover,True
+2322,Debris Cover,Snow Cover,False
+1183,Snow Cover,Snow Cover,True
+808,Moraine Dammed,Moraine,False
+1648,Debris Cover,Debris Cover,True
+55,Moraine Dammed,Moraine,False
+193,Moraine Dammed,Moraine,False
+1883,Moraine Dammed,Moraine,False
+1124,Snow Cover,Snow Cover,True
+312,Snow Cover,Snow Cover,True
+1877,Terrain Shadow,Terraine Shadow,False
+322,Moraine Dammed,Moraine,False
+1291,Snow Cover,Snow Cover,True
+1503,Moraine Dammed,Terraine Shadow,False
+1959,Terrain Shadow,Terraine Shadow,False
+2044,Moraine Dammed,Moraine,False
+996,Snow Cover,Snow Cover,True
+420,Moraine Dammed,Moraine,False
+576,Snow Cover,Moraine,False
+1011,Moraine Dammed,Moraine,False
+862,Snow Cover,Snow Cover,True
+640,Moraine Dammed,Terraine Shadow,False
+1716,Terrain Shadow,Terraine Shadow,False
+280,Debris Cover,Debris Cover,True
+1742,Debris Cover,Debris Cover,True
+1849,Debris Cover,Debris Cover,True
+517,Terrain Shadow,Terraine Shadow,False
+228,Moraine Dammed,Moraine,False
+2320,Moraine Dammed,Moraine,False
+1155,Moraine Dammed,Moraine,False
+227,Snow Cover,Snow Cover,True
+119,Terrain Shadow,Snow Cover,False
+528,Terrain Shadow,Terraine Shadow,False
+456,Moraine Dammed,Moraine,False
+605,Moraine Dammed,Moraine,False
+1055,Moraine Dammed,Moraine,False
+1182,Snow Cover,Snow Cover,True
+1346,Snow Cover,Snow Cover,True
+1760,Moraine Dammed,Moraine,False
+2098,Moraine Dammed,Moraine,False
+2255,Debris Cover,Debris Cover,True
+2308,Snow Cover,Snow Cover,True
+836,Moraine Dammed,Moraine,False
+1093,Snow Cover,Snow Cover,True
+919,Moraine Dammed,Terraine Shadow,False
+1747,Snow Cover,Snow Cover,True
+1732,Snow Cover,Snow Cover,True
+1264,Moraine Dammed,Moraine,False
+2145,Snow Cover,Snow Cover,True
+1810,Moraine Dammed,Moraine,False
+798,Snow Cover,Snow Cover,True
+1173,Snow Cover,Snow Cover,True
+1172,Debris Cover,Moraine,False
+677,Moraine Dammed,Moraine,False
+1302,Snow Cover,Moraine,False
+771,Terrain Shadow,Terraine Shadow,False
+1145,Snow Cover,Snow Cover,True
+389,Snow Cover,Snow Cover,True
+232,Snow Cover,Snow Cover,True
+1458,Moraine Dammed,Moraine,False
+663,Snow Cover,Snow Cover,True
+72,Moraine Dammed,Moraine,False
+1091,Moraine Dammed,Moraine,False
+1513,Moraine Dammed,Moraine,False
+209,Snow Cover,Snow Cover,True
+1557,Moraine Dammed,Moraine,False
+1981,Snow Cover,Snow Cover,True
+945,Snow Cover,Snow Cover,True
+174,Snow Cover,Snow Cover,True
+969,Moraine Dammed,Moraine,False
+2100,Moraine Dammed,Moraine,False
+746,Snow Cover,Snow Cover,True
+1415,Debris Cover,Snow Cover,False
+569,Snow Cover,Snow Cover,True
+292,Snow Cover,Snow Cover,True
+1846,Varying Turbidity,Turbidity,False
+2006,Moraine Dammed,Moraine,False
+898,Moraine Dammed,Moraine,False
+1418,Moraine Dammed,Moraine,False
+148,Debris Cover,Debris Cover,True
+1673,Moraine Dammed,Debris Cover,False
+1901,Snow Cover,Snow Cover,True
+1873,Snow Cover,Snow Cover,True
+820,Moraine Dammed,Moraine,False
+940,Debris Cover,Debris Cover,True
+1405,Moraine Dammed,Moraine,False
+1958,Snow Cover,Snow Cover,True
+616,Snow Cover,Snow Cover,True
+1163,Moraine Dammed,Moraine,False
+789,Snow Cover,Snow Cover,True
+2051,Snow Cover,Snow Cover,True
+2274,Snow Cover,Snow Cover,True
+1739,Varying Turbidity,Moraine,False
+845,Moraine Dammed,Moraine,False
+751,Snow Cover,Snow Cover,True
+63,Snow Cover,Snow Cover,True
+1989,Moraine Dammed,Moraine,False
+747,Terrain Shadow,Terraine Shadow,False
+1114,Terrain Shadow,Snow Cover,False
+540,Terrain Shadow,Terraine Shadow,False
+16,Moraine Dammed,Moraine,False
+1738,Snow Cover,Snow Cover,True
+246,Debris Cover,Debris Cover,True
+449,Snow Cover,Snow Cover,True
+2097,Snow Cover,Snow Cover,True
+1459,Moraine Dammed,Moraine,False
+390,Terrain Shadow,Terraine Shadow,False
+1892,Terrain Shadow,Moraine,False
+412,Snow Cover,Snow Cover,True
+53,Moraine Dammed,Snow Cover,False
+688,Snow Cover,Snow Cover,True
+843,Snow Cover,Snow Cover,True
+1676,Debris Cover,Debris Cover,True
+1554,Snow Cover,Snow Cover,True
+2317,Snow Cover,Snow Cover,True
+469,Snow Cover,Snow Cover,True
+2113,Snow Cover,Snow Cover,True
+348,Snow Cover,Snow Cover,True
+653,Moraine Dammed,Moraine,False
+1125,Snow Cover,Snow Cover,True
+506,Moraine Dammed,Snow Cover,False
+530,Terrain Shadow,Terraine Shadow,False
+1546,Terrain Shadow,Terraine Shadow,False
+1506,Terrain Shadow,Terraine Shadow,False
+1226,Moraine Dammed,Moraine,False
+710,Moraine Dammed,Moraine,False
+2034,Moraine Dammed,Moraine,False
+739,Moraine Dammed,Moraine,False
+1541,Snow Cover,Snow Cover,True
+336,Terrain Shadow,Terraine Shadow,False
+849,Snow Cover,Snow Cover,True
+2295,Moraine Dammed,Moraine,False
+1591,Moraine Dammed,Moraine,False
+1117,Moraine Dammed,Turbidity,False
+664,Moraine Dammed,Moraine,False
+1897,Debris Cover,Debris Cover,True
+376,Snow Cover,Snow Cover,True
+2250,Snow Cover,Snow Cover,True
+855,Moraine Dammed,Moraine,False
+1602,Debris Cover,Moraine,False
+2167,Moraine Dammed,Moraine,False
+430,Snow Cover,Snow Cover,True
+1940,Debris Cover,Debris Cover,True
+1041,Moraine Dammed,Moraine,False
+738,Debris Cover,Debris Cover,True
+2283,Moraine Dammed,Moraine,False
+1201,Snow Cover,Snow Cover,True
+463,Moraine Dammed,Moraine,False
+1078,Debris Cover,Debris Cover,True
+2002,Snow Cover,Snow Cover,True
+2202,Moraine Dammed,Snow Cover,False
+511,Moraine Dammed,Moraine,False
+679,Debris Cover,Debris Cover,True
+1707,Moraine Dammed,Moraine,False
+1568,Moraine Dammed,Moraine,False
+1499,Snow Cover,Snow Cover,True
+737,Snow Cover,Snow Cover,True
+1050,Snow Cover,Snow Cover,True
+217,Moraine Dammed,Moraine,False
+1049,Debris Cover,Debris Cover,True
+1585,Snow Cover,Snow Cover,True
+578,Snow Cover,Snow Cover,True
+1336,Snow Cover,Snow Cover,True
+1836,Snow Cover,Snow Cover,True
+1778,Moraine Dammed,Moraine,False
+1844,Snow Cover,Snow Cover,True
+20,Moraine Dammed,Moraine,False
+1913,Snow Cover,Snow Cover,True
+625,Snow Cover,Snow Cover,True
+1464,Snow Cover,Moraine,False
+2035,Moraine Dammed,Moraine,False
+1803,Varying Turbidity,Moraine,False
+2276,Snow Cover,Snow Cover,True
+2169,Varying Turbidity,Turbidity,False
+1249,Terrain Shadow,Terraine Shadow,False
+598,Terrain Shadow,Terraine Shadow,False
+2140,Debris Cover,Debris Cover,True
+1840,Moraine Dammed,Moraine,False
+2059,Snow Cover,Snow Cover,True
+1729,Moraine Dammed,Terraine Shadow,False
+1502,Terrain Shadow,Snow Cover,False
+128,Moraine Dammed,Moraine,False
+2279,Moraine Dammed,Snow Cover,False
+4,Snow Cover,Snow Cover,True
+400,Moraine Dammed,Moraine,False
+1324,Moraine Dammed,Moraine,False
+742,Moraine Dammed,Moraine,False
+962,Snow Cover,Terraine Shadow,False
+1213,Snow Cover,Snow Cover,True
+1775,Snow Cover,Snow Cover,True
+2325,Snow Cover,Snow Cover,True
+1386,Moraine Dammed,Moraine,False
+1254,Terrain Shadow,Terraine Shadow,False
+2215,Moraine Dammed,Snow Cover,False
+2222,Debris Cover,Debris Cover,True
+568,Terrain Shadow,Terraine Shadow,False
+1016,Moraine Dammed,Snow Cover,False
+714,Snow Cover,Snow Cover,True
+594,Terrain Shadow,Moraine,False
+2037,Snow Cover,Terraine Shadow,False
+817,Moraine Dammed,Moraine,False
+547,Debris Cover,Debris Cover,True
+301,Moraine Dammed,Moraine,False
+451,Moraine Dammed,Moraine,False
+249,Snow Cover,Snow Cover,True
+1731,Snow Cover,Snow Cover,True
+1769,Varying Turbidity,Moraine,False
+572,Snow Cover,Snow Cover,True
+245,Moraine Dammed,Moraine,False
+2147,Snow Cover,Snow Cover,True
+1132,Moraine Dammed,Moraine,False
+1010,Snow Cover,Moraine,False
+340,Moraine Dammed,Moraine,False
+906,Moraine Dammed,Moraine,False
+1428,Snow Cover,Snow Cover,True
+2248,Snow Cover,Snow Cover,True
+2263,Moraine Dammed,Moraine,False
+1347,Snow Cover,Snow Cover,True
+1640,Moraine Dammed,Moraine,False
+863,Moraine Dammed,Moraine,False
+2177,Moraine Dammed,Debris Cover,False
+11,Snow Cover,Snow Cover,True
+1504,Varying Turbidity,Moraine,False
+1023,Moraine Dammed,Moraine,False
+2156,Snow Cover,Snow Cover,True
+2161,Moraine Dammed,Moraine,False
+1937,Moraine Dammed,Debris Cover,False
+207,Snow Cover,Snow Cover,True
+1138,Moraine Dammed,Moraine,False
+347,Terrain Shadow,Terraine Shadow,False
+2062,Moraine Dammed,Moraine,False
+300,Terrain Shadow,Snow Cover,False
+473,Terrain Shadow,Terraine Shadow,False
+545,Moraine Dammed,Moraine,False
+438,Moraine Dammed,Moraine,False
+2209,Moraine Dammed,Moraine,False
+371,Moraine Dammed,Moraine,False
+1398,Snow Cover,Snow Cover,True
+1310,Snow Cover,Snow Cover,True
+1365,Terrain Shadow,Terraine Shadow,False
+1436,Snow Cover,Snow Cover,True
+740,Snow Cover,Snow Cover,True
+998,Moraine Dammed,Terraine Shadow,False
+151,Moraine Dammed,Moraine,False
+1555,Snow Cover,Snow Cover,True
+2359,Snow Cover,Snow Cover,True
+1063,Terrain Shadow,Terraine Shadow,False
+66,Terrain Shadow,Terraine Shadow,False
+835,Moraine Dammed,Moraine,False
+460,Terrain Shadow,Terraine Shadow,False
+38,Snow Cover,Snow Cover,True
+113,Debris Cover,Debris Cover,True
+1951,Snow Cover,Moraine,False
+558,Snow Cover,Snow Cover,True
+2256,Moraine Dammed,Moraine,False
+215,Moraine Dammed,Moraine,False
+1952,Snow Cover,Moraine,False
+1701,Snow Cover,Debris Cover,False
+2126,Varying Turbidity,Snow Cover,False
+1286,Moraine Dammed,Moraine,False
+410,Debris Cover,Terraine Shadow,False
+943,Moraine Dammed,Moraine,False
+1266,Snow Cover,Terraine Shadow,False
+1611,Moraine Dammed,Moraine,False
+1749,Snow Cover,Snow Cover,True
+1234,Terrain Shadow,Terraine Shadow,False
+110,Snow Cover,Snow Cover,True
+543,Moraine Dammed,Moraine,False
+676,Terrain Shadow,Terraine Shadow,False
+1687,Moraine Dammed,Snow Cover,False
+2013,Moraine Dammed,Moraine,False
+1064,Snow Cover,Snow Cover,True
+268,Snow Cover,Snow Cover,True
+346,Snow Cover,Snow Cover,True
+1258,Moraine Dammed,Moraine,False
+667,Debris Cover,Debris Cover,True
+1757,Terrain Shadow,Moraine,False
+97,Snow Cover,Moraine,False
+531,Moraine Dammed,Moraine,False
+1083,Snow Cover,Snow Cover,True
+1748,Moraine Dammed,Moraine,False
+1457,Moraine Dammed,Moraine,False
+229,Moraine Dammed,Moraine,False
+2346,Moraine Dammed,Moraine,False
+1924,Snow Cover,Snow Cover,True
+2119,Moraine Dammed,Moraine,False
+1426,Snow Cover,Snow Cover,True
+198,Moraine Dammed,Moraine,False
+717,Moraine Dammed,Moraine,False
+2229,Moraine Dammed,Moraine,False
+1634,Moraine Dammed,Moraine,False
+614,Debris Cover,Debris Cover,True
+1101,Terrain Shadow,Terraine Shadow,False
+1505,Debris Cover,Moraine,False
+1205,Snow Cover,Snow Cover,True
+1449,Terrain Shadow,Terraine Shadow,False
+1839,Moraine Dammed,Moraine,False
+107,Moraine Dammed,Moraine,False
+226,Terrain Shadow,Terraine Shadow,False
+2047,Debris Cover,Debris Cover,True
+1927,Terrain Shadow,Terraine Shadow,False
+114,Debris Cover,Debris Cover,True
+1661,Moraine Dammed,Moraine,False
+1752,Moraine Dammed,Moraine,False
+1563,Snow Cover,Snow Cover,True
+832,Snow Cover,Snow Cover,True
+1950,Debris Cover,Debris Cover,True
+1516,Snow Cover,Snow Cover,True
+1095,Moraine Dammed,Moraine,False
+1320,Snow Cover,Snow Cover,True
+258,Moraine Dammed,Moraine,False
+1437,Snow Cover,Moraine,False
+2179,Snow Cover,Snow Cover,True
+1202,Snow Cover,Snow Cover,True
+1825,Debris Cover,Debris Cover,True
+1352,Snow Cover,Snow Cover,True
+823,Snow Cover,Snow Cover,True
+453,Terrain Shadow,Terraine Shadow,False
+1553,Moraine Dammed,Moraine,False
+857,Snow Cover,Snow Cover,True
+1027,Moraine Dammed,Moraine,False
+1419,Moraine Dammed,Moraine,False
+1518,Terrain Shadow,Moraine,False
+1768,Moraine Dammed,Terraine Shadow,False
+1454,Moraine Dammed,Snow Cover,False
+657,Terrain Shadow,Snow Cover,False
+1688,Moraine Dammed,Moraine,False
+478,Moraine Dammed,Moraine,False
+613,Moraine Dammed,Moraine,False
+955,Moraine Dammed,Moraine,False
+1841,Snow Cover,Snow Cover,True
+1726,Moraine Dammed,Moraine,False
+1660,Varying Turbidity,Turbidity,False
+1988,Moraine Dammed,Moraine,False
+1932,Moraine Dammed,Moraine,False
+659,Snow Cover,Snow Cover,True
+1651,Varying Turbidity,Turbidity,False
+1330,Snow Cover,Snow Cover,True
+1925,Snow Cover,Moraine,False
+800,Snow Cover,Snow Cover,True
+524,Terrain Shadow,Snow Cover,False
+101,Moraine Dammed,Moraine,False
+850,Terrain Shadow,Moraine,False
+660,Snow Cover,Snow Cover,True
+2316,Snow Cover,Snow Cover,True
+783,Snow Cover,Snow Cover,True
+278,Snow Cover,Snow Cover,True
+1650,Snow Cover,Snow Cover,True
+310,Debris Cover,Debris Cover,True
+2079,Moraine Dammed,Moraine,False
+417,Moraine Dammed,Moraine,False
+351,Snow Cover,Moraine,False
+1483,Debris Cover,Debris Cover,True
+2137,Snow Cover,Snow Cover,True
+600,Snow Cover,Moraine,False
+1654,Moraine Dammed,Moraine,False
+1789,Varying Turbidity,Moraine,False
+2302,Snow Cover,Snow Cover,True
+277,Moraine Dammed,Snow Cover,False
+240,Moraine Dammed,Moraine,False
+877,Debris Cover,Debris Cover,True
+518,Snow Cover,Snow Cover,True
+2321,Snow Cover,Snow Cover,True
+84,Snow Cover,Snow Cover,True
+350,Moraine Dammed,Snow Cover,False
+1333,Snow Cover,Snow Cover,True
+939,Snow Cover,Snow Cover,True
+1065,Snow Cover,Snow Cover,True
+1126,Terrain Shadow,Terraine Shadow,False
+1076,Snow Cover,Snow Cover,True
+1087,Snow Cover,Terraine Shadow,False
+965,Moraine Dammed,Moraine,False
+1399,Moraine Dammed,Snow Cover,False
+719,Debris Cover,Turbidity,False
+1334,Debris Cover,Debris Cover,True
+2358,Moraine Dammed,Moraine,False
+1239,Snow Cover,Snow Cover,True
+475,Moraine Dammed,Moraine,False
+1979,Terrain Shadow,Terraine Shadow,False
+1081,Moraine Dammed,Moraine,False
+1397,Snow Cover,Snow Cover,True
+661,Snow Cover,Snow Cover,True
+580,Debris Cover,Debris Cover,True
+202,Moraine Dammed,Moraine,False
+1005,Moraine Dammed,Moraine,False
+938,Snow Cover,Snow Cover,True
+184,Debris Cover,Debris Cover,True
+1970,Moraine Dammed,Moraine,False
+257,Moraine Dammed,Moraine,False
+1567,Snow Cover,Snow Cover,True
+1668,Debris Cover,Snow Cover,False
+1523,Varying Turbidity,Turbidity,False
+1224,Snow Cover,Snow Cover,True
+1440,Moraine Dammed,Moraine,False
+167,Terrain Shadow,Terraine Shadow,False
+1024,Moraine Dammed,Moraine,False
+2300,Moraine Dammed,Moraine,False
+2236,Moraine Dammed,Moraine,False
+2066,Snow Cover,Snow Cover,True
+1826,Moraine Dammed,Moraine,False
+1573,Moraine Dammed,Moraine,False
+337,Moraine Dammed,Moraine,False
+510,Snow Cover,Snow Cover,True
+81,Debris Cover,Debris Cover,True
+157,Moraine Dammed,Moraine,False
+440,Snow Cover,Snow Cover,True
+1292,Varying Turbidity,Snow Cover,False
+455,Snow Cover,Snow Cover,True
+952,Snow Cover,Snow Cover,True
+1156,Moraine Dammed,Moraine,False
+612,Snow Cover,Snow Cover,True
+632,Snow Cover,Snow Cover,True
+882,Debris Cover,Debris Cover,True
+1920,Moraine Dammed,Moraine,False
+1067,Moraine Dammed,Moraine,False
+2005,Debris Cover,Debris Cover,True
+807,Debris Cover,Debris Cover,True
+2340,Snow Cover,Snow Cover,True
+1975,Snow Cover,Snow Cover,True
+662,Snow Cover,Snow Cover,True
+1850,Moraine Dammed,Moraine,False
+461,Terrain Shadow,Terraine Shadow,False
+1724,Snow Cover,Snow Cover,True
+1545,Moraine Dammed,Moraine,False
+1018,Snow Cover,Snow Cover,True
+299,Moraine Dammed,Moraine,False
+1106,Snow Cover,Snow Cover,True
+1796,Snow Cover,Snow Cover,True
+642,Terrain Shadow,Terraine Shadow,False
+99,Snow Cover,Snow Cover,True
+380,Snow Cover,Snow Cover,True
+2253,Snow Cover,Snow Cover,True
+1422,Terrain Shadow,Terraine Shadow,False
+464,Moraine Dammed,Moraine,False
+981,Snow Cover,Snow Cover,True
+922,Snow Cover,Snow Cover,True
+1966,Moraine Dammed,Terraine Shadow,False
+1576,Snow Cover,Snow Cover,True
+1031,Snow Cover,Snow Cover,True
+1309,Snow Cover,Snow Cover,True
+2088,Snow Cover,Snow Cover,True
+2330,Snow Cover,Snow Cover,True
+1896,Moraine Dammed,Moraine,False
+818,Snow Cover,Snow Cover,True
+1471,Snow Cover,Snow Cover,True
+541,Moraine Dammed,Moraine,False
+425,Moraine Dammed,Snow Cover,False
+814,Snow Cover,Snow Cover,True
+2227,Moraine Dammed,Moraine,False
+1034,Moraine Dammed,Moraine,False
+1904,Terrain Shadow,Terraine Shadow,False
+519,Snow Cover,Snow Cover,True
+406,Moraine Dammed,Moraine,False
+1874,Terrain Shadow,Debris Cover,False
+1589,Terrain Shadow,Terraine Shadow,False
+1489,Moraine Dammed,Moraine,False
+1068,Terrain Shadow,Terraine Shadow,False
+718,Moraine Dammed,Moraine,False
+1763,Terrain Shadow,Terraine Shadow,False
+1279,Debris Cover,Moraine,False
+2001,Snow Cover,Snow Cover,True
+1496,Debris Cover,Debris Cover,True
+1476,Moraine Dammed,Moraine,False
+1210,Debris Cover,Snow Cover,False
+393,Terrain Shadow,Snow Cover,False
+1594,Varying Turbidity,Debris Cover,False
+1298,Terrain Shadow,Moraine,False
+1662,Moraine Dammed,Snow Cover,False
+1465,Moraine Dammed,Moraine,False
+1509,Snow Cover,Snow Cover,True
+1685,Moraine Dammed,Moraine,False
+1822,Snow Cover,Snow Cover,True
+784,Terrain Shadow,Moraine,False
+2150,Moraine Dammed,Debris Cover,False
+261,Snow Cover,Snow Cover,True
+741,Terrain Shadow,Moraine,False
+311,Moraine Dammed,Moraine,False
+1835,Terrain Shadow,Terraine Shadow,False
+433,Moraine Dammed,Moraine,False
+1412,Snow Cover,Snow Cover,True
+891,Moraine Dammed,Moraine,False
+1351,Debris Cover,Debris Cover,True
+1500,Snow Cover,Snow Cover,True
+242,Snow Cover,Snow Cover,True
+1159,Snow Cover,Snow Cover,True
+2095,Moraine Dammed,Moraine,False
+1349,Terrain Shadow,Terraine Shadow,False
+687,Snow Cover,Snow Cover,True
+1527,Snow Cover,Snow Cover,True
+2324,Moraine Dammed,Moraine,False
+1175,Snow Cover,Snow Cover,True
+2328,Snow Cover,Snow Cover,True
+2070,Snow Cover,Snow Cover,True
+675,Moraine Dammed,Moraine,False
+2125,Moraine Dammed,Moraine,False
+1785,Moraine Dammed,Moraine,False
+570,Snow Cover,Snow Cover,True
+1928,Terrain Shadow,Terraine Shadow,False
+896,Snow Cover,Moraine,False
+33,Terrain Shadow,Snow Cover,False
+1722,Snow Cover,Snow Cover,True
+1793,Snow Cover,Snow Cover,True
+670,Snow Cover,Debris Cover,False
+2319,Moraine Dammed,Moraine,False
+49,Moraine Dammed,Moraine,False
+806,Terrain Shadow,Terraine Shadow,False
+2289,Moraine Dammed,Moraine,False
+180,Terrain Shadow,Terraine Shadow,False
+1891,Moraine Dammed,Moraine,False
+2351,Snow Cover,Snow Cover,True
+889,Moraine Dammed,Moraine,False
+2198,Snow Cover,Snow Cover,True
+1066,Debris Cover,Debris Cover,True
+1377,Debris Cover,Debris Cover,True
+790,Moraine Dammed,Moraine,False
+870,Snow Cover,Snow Cover,True
+1339,Moraine Dammed,Moraine,False
+61,Snow Cover,Snow Cover,True
+112,Terrain Shadow,Terraine Shadow,False
+325,Terrain Shadow,Snow Cover,False
+646,Snow Cover,Snow Cover,True
+1743,Snow Cover,Snow Cover,True
+1598,Moraine Dammed,Moraine,False
+428,Snow Cover,Snow Cover,True
+2254,Snow Cover,Snow Cover,True
+793,Terrain Shadow,Terraine Shadow,False
+1859,Terrain Shadow,Moraine,False
+492,Moraine Dammed,Moraine,False
+183,Moraine Dammed,Snow Cover,False
+203,Snow Cover,Debris Cover,False
+1211,Moraine Dammed,Moraine,False
+1313,Moraine Dammed,Moraine,False
+379,Moraine Dammed,Moraine,False
+1969,Moraine Dammed,Moraine,False
+1451,Debris Cover,Moraine,False
+801,Moraine Dammed,Moraine,False
+595,Snow Cover,Snow Cover,True
+1965,Debris Cover,Debris Cover,True
+1586,Moraine Dammed,Moraine,False
+2224,Snow Cover,Snow Cover,True
+1658,Snow Cover,Snow Cover,True
+1543,Varying Turbidity,Moraine,False
+876,Moraine Dammed,Moraine,False
+402,Moraine Dammed,Moraine,False
+1442,Snow Cover,Snow Cover,True
+41,Debris Cover,Moraine,False
+720,Snow Cover,Snow Cover,True
+80,Terrain Shadow,Terraine Shadow,False
+54,Moraine Dammed,Debris Cover,False
+1281,Moraine Dammed,Moraine,False
+2259,Moraine Dammed,Moraine,False
+251,Snow Cover,Snow Cover,True
+1578,Snow Cover,Snow Cover,True
+145,Moraine Dammed,Snow Cover,False
+1868,Debris Cover,Moraine,False
+721,Debris Cover,Debris Cover,True
+1487,Snow Cover,Snow Cover,True
+2024,Debris Cover,Moraine,False
+644,Snow Cover,Snow Cover,True
+749,Terrain Shadow,Snow Cover,False
+1706,Snow Cover,Snow Cover,True
+1141,Terrain Shadow,Terraine Shadow,False
+338,Moraine Dammed,Moraine,False
+1241,Moraine Dammed,Terraine Shadow,False
+1086,Debris Cover,Debris Cover,True
+1725,Snow Cover,Snow Cover,True
+1623,Snow Cover,Snow Cover,True
+2025,Moraine Dammed,Moraine,False
+2257,Snow Cover,Debris Cover,False
+2041,Snow Cover,Debris Cover,False
+507,Moraine Dammed,Moraine,False
+1907,Snow Cover,Snow Cover,True
+2312,Snow Cover,Snow Cover,True
+1184,Snow Cover,Snow Cover,True
+360,Moraine Dammed,Debris Cover,False
+2091,Debris Cover,Snow Cover,False
+512,Terrain Shadow,Terraine Shadow,False
+364,Snow Cover,Snow Cover,True
+160,Moraine Dammed,Moraine,False
+1635,Varying Turbidity,Turbidity,False
+158,Snow Cover,Snow Cover,True
+1664,Debris Cover,Debris Cover,True
+879,Snow Cover,Snow Cover,True
+1080,Snow Cover,Snow Cover,True
+1216,Moraine Dammed,Moraine,False
+385,Moraine Dammed,Snow Cover,False
+1032,Snow Cover,Snow Cover,True
+1219,Snow Cover,Snow Cover,True
+2219,Snow Cover,Snow Cover,True
+1236,Snow Cover,Snow Cover,True
+1818,Snow Cover,Snow Cover,True
+1321,Snow Cover,Snow Cover,True
+480,Terrain Shadow,Terraine Shadow,False
+527,Moraine Dammed,Snow Cover,False
+1058,Terrain Shadow,Debris Cover,False
+905,Moraine Dammed,Moraine,False
+1680,Snow Cover,Snow Cover,True
+45,Snow Cover,Snow Cover,True
+1681,Terrain Shadow,Terraine Shadow,False
+561,Terrain Shadow,Terraine Shadow,False
+774,Terrain Shadow,Terraine Shadow,False
+874,Snow Cover,Snow Cover,True
+171,Moraine Dammed,Snow Cover,False
+2151,Moraine Dammed,Moraine,False
+231,Snow Cover,Snow Cover,True
+200,Moraine Dammed,Debris Cover,False
+1401,Snow Cover,Snow Cover,True
+1515,Moraine Dammed,Moraine,False
+635,Snow Cover,Snow Cover,True
+2007,Moraine Dammed,Moraine,False
+1592,Moraine Dammed,Moraine,False
+2367,Debris Cover,Debris Cover,True
+394,Terrain Shadow,Terraine Shadow,False
+622,Moraine Dammed,Moraine,False
+123,Moraine Dammed,Moraine,False
+566,Moraine Dammed,Moraine,False
+192,Cloud Cover,Cloud Cover,True
+652,Snow Cover,Snow Cover,True
+367,Debris Cover,Debris Cover,True
+914,Terrain Shadow,Terraine Shadow,False
+2143,Snow Cover,Snow Cover,True
+1455,Moraine Dammed,Moraine,False
+1583,Terrain Shadow,Terraine Shadow,False
+1633,Snow Cover,Snow Cover,True
+195,Moraine Dammed,Moraine,False
+1575,Moraine Dammed,Moraine,False
+1194,Snow Cover,Snow Cover,True
+1746,Moraine Dammed,Moraine,False
+1372,Snow Cover,Snow Cover,True
+1318,Snow Cover,Moraine,False
+932,Moraine Dammed,Moraine,False
+668,Snow Cover,Snow Cover,True
+1520,Moraine Dammed,Moraine,False
+1002,Moraine Dammed,Moraine,False
+496,Debris Cover,Debris Cover,True
+839,Terrain Shadow,Terraine Shadow,False
+92,Snow Cover,Moraine,False
+947,Snow Cover,Snow Cover,True
+64,Moraine Dammed,Moraine,False
+971,Moraine Dammed,Terraine Shadow,False
+2133,Moraine Dammed,Moraine,False
+505,Cloud Cover,Moraine,False
+581,Moraine Dammed,Moraine,False
+744,Cloud Cover,Cloud Cover,True
+1359,Terrain Shadow,Moraine,False
+458,Debris Cover,Debris Cover,True
+1191,Moraine Dammed,Moraine,False
+1410,Moraine Dammed,Moraine,False
+2052,Moraine Dammed,Moraine,False
+1450,Debris Cover,Debris Cover,True
+1294,Snow Cover,Snow Cover,True
+2216,Varying Turbidity,Turbidity,False
+728,Moraine Dammed,Moraine,False
+1885,Moraine Dammed,Moraine,False
+1297,Varying Turbidity,Debris Cover,False
+437,Snow Cover,Snow Cover,True
+279,Moraine Dammed,Moraine,False
+89,Moraine Dammed,Moraine,False
+1407,Moraine Dammed,Moraine,False
+1631,Moraine Dammed,Moraine,False
+1424,Moraine Dammed,Moraine,False
+136,Moraine Dammed,Moraine,False
+2341,Moraine Dammed,Moraine,False
+1990,Moraine Dammed,Moraine,False
+1929,Snow Cover,Moraine,False
+1741,Snow Cover,Snow Cover,True
+1276,Moraine Dammed,Terraine Shadow,False
+2323,Snow Cover,Snow Cover,True
+216,Moraine Dammed,Moraine,False
+1482,Moraine Dammed,Turbidity,False
+908,Debris Cover,Debris Cover,True
+1982,Moraine Dammed,Moraine,False
+2176,Varying Turbidity,Snow Cover,False
+1800,Snow Cover,Moraine,False
+485,Snow Cover,Snow Cover,True
+319,Moraine Dammed,Moraine,False
+544,Moraine Dammed,Moraine,False
+1847,Moraine Dammed,Moraine,False
+1872,Moraine Dammed,Snow Cover,False
+1955,Moraine Dammed,Moraine,False
+26,Snow Cover,Snow Cover,True
+173,Terrain Shadow,Terraine Shadow,False
+1612,Debris Cover,Debris Cover,True
+1140,Debris Cover,Debris Cover,True
+1756,Moraine Dammed,Moraine,False
+1560,Moraine Dammed,Moraine,False
+153,Snow Cover,Snow Cover,True
+923,Moraine Dammed,Moraine,False
+2021,Terrain Shadow,Terraine Shadow,False
+916,Debris Cover,Debris Cover,True
+344,Moraine Dammed,Moraine,False
+2057,Varying Turbidity,Moraine,False
+1813,Snow Cover,Snow Cover,True
+1466,Moraine Dammed,Moraine,False
+704,Moraine Dammed,Moraine,False
+535,Snow Cover,Snow Cover,True
+1045,Moraine Dammed,Moraine,False
+1268,Debris Cover,Debris Cover,True
+165,Moraine Dammed,Moraine,False
+441,Moraine Dammed,Moraine,False
+1967,Moraine Dammed,Moraine,False
+674,Moraine Dammed,Moraine,False
+683,Moraine Dammed,Moraine,False
+824,Terrain Shadow,Terraine Shadow,False
+2172,Moraine Dammed,Debris Cover,False
+1522,Moraine Dammed,Moraine,False
+634,Moraine Dammed,Moraine,False
+23,Terrain Shadow,Terraine Shadow,False
+2046,Moraine Dammed,Moraine,False
+1980,Snow Cover,Moraine,False
+1933,Terrain Shadow,Moraine,False
+1791,Moraine Dammed,Moraine,False
+74,Snow Cover,Snow Cover,True
+1772,Moraine Dammed,Moraine,False
+1119,Moraine Dammed,Moraine,False
+585,Snow Cover,Snow Cover,True
+313,Snow Cover,Snow Cover,True
+671,Terrain Shadow,Snow Cover,False
+553,Snow Cover,Snow Cover,True
+1801,Debris Cover,Debris Cover,True
+1753,Snow Cover,Snow Cover,True
+133,Snow Cover,Moraine,False
+756,Snow Cover,Snow Cover,True
+1388,Terrain Shadow,Terraine Shadow,False
+1243,Moraine Dammed,Moraine,False
+1899,Moraine Dammed,Moraine,False
+1484,Moraine Dammed,Moraine,False
+977,Moraine Dammed,Moraine,False
+665,Snow Cover,Snow Cover,True
+168,Cloud Cover,Cloud Cover,True
+1812,Moraine Dammed,Moraine,False
+694,Snow Cover,Snow Cover,True
+1161,Snow Cover,Snow Cover,True
+362,Moraine Dammed,Snow Cover,False
+1104,Terrain Shadow,Terraine Shadow,False
+1089,Moraine Dammed,Moraine,False
+650,Snow Cover,Moraine,False
+1700,Snow Cover,Snow Cover,True
+2218,Debris Cover,Debris Cover,True
+930,Snow Cover,Snow Cover,True
+2154,Snow Cover,Snow Cover,True
+532,Snow Cover,Snow Cover,True
+2264,Moraine Dammed,Moraine,False
+1830,Snow Cover,Snow Cover,True
+2065,Snow Cover,Snow Cover,True
+854,Snow Cover,Snow Cover,True
+238,Snow Cover,Snow Cover,True
+957,Moraine Dammed,Moraine,False
+1788,Terrain Shadow,Terraine Shadow,False
+1781,Moraine Dammed,Moraine,False
+46,Snow Cover,Snow Cover,True
+895,Debris Cover,Debris Cover,True
+822,Moraine Dammed,Moraine,False
+295,Moraine Dammed,Moraine,False
+1369,Moraine Dammed,Moraine,False
+489,Snow Cover,Snow Cover,True
+208,Moraine Dammed,Moraine,False
+1046,Moraine Dammed,Moraine,False
+404,Moraine Dammed,Moraine,False
+1056,Moraine Dammed,Moraine,False
+291,Terrain Shadow,Debris Cover,False
+1038,Snow Cover,Snow Cover,True
+1914,Snow Cover,Snow Cover,True
+886,Moraine Dammed,Moraine,False
+1690,Snow Cover,Snow Cover,True
+752,Snow Cover,Moraine,False
+1240,Snow Cover,Snow Cover,True
+21,Moraine Dammed,Moraine,False
+655,Snow Cover,Snow Cover,True
+2197,Debris Cover,Debris Cover,True
+1077,Debris Cover,Debris Cover,True
+778,Snow Cover,Snow Cover,True
+1273,Terrain Shadow,Moraine,False
+643,Terrain Shadow,Snow Cover,False
+1784,Debris Cover,Terraine Shadow,False
+2245,Snow Cover,Snow Cover,True
+1845,Terrain Shadow,Moraine,False
+1470,Moraine Dammed,Moraine,False
+894,Moraine Dammed,Moraine,False
+457,Terrain Shadow,Terraine Shadow,False
+285,Terrain Shadow,Terraine Shadow,False
+1833,Moraine Dammed,Moraine,False
+508,Moraine Dammed,Moraine,False
+1974,Moraine Dammed,Moraine,False
+500,Terrain Shadow,Terraine Shadow,False
+305,Debris Cover,Snow Cover,False
+1764,Snow Cover,Moraine,False
+1003,Snow Cover,Snow Cover,True
+933,Moraine Dammed,Snow Cover,False
+1071,Snow Cover,Snow Cover,True
+18,Snow Cover,Snow Cover,True
+2192,Moraine Dammed,Terraine Shadow,False
+1628,Snow Cover,Snow Cover,True
+166,Snow Cover,Terraine Shadow,False
+522,Snow Cover,Debris Cover,False
+366,Moraine Dammed,Moraine,False
+194,Snow Cover,Snow Cover,True
+564,Moraine Dammed,Moraine,False
+2171,Snow Cover,Snow Cover,True
+1622,Moraine Dammed,Moraine,False
+1129,Snow Cover,Snow Cover,True
+1893,Moraine Dammed,Moraine,False
+780,Moraine Dammed,Snow Cover,False
+2159,Moraine Dammed,Moraine,False
+1097,Snow Cover,Snow Cover,True
+214,Moraine Dammed,Moraine,False
+392,Snow Cover,Snow Cover,True
+476,Terrain Shadow,Terraine Shadow,False
+169,Terrain Shadow,Terraine Shadow,False
+1408,Snow Cover,Moraine,False
+189,Terrain Shadow,Terraine Shadow,False
+552,Moraine Dammed,Snow Cover,False
+342,Moraine Dammed,Moraine,False
+1728,Terrain Shadow,Terraine Shadow,False
+1900,Snow Cover,Debris Cover,False
+551,Debris Cover,Moraine,False
+156,Moraine Dammed,Moraine,False
+175,Terrain Shadow,Terraine Shadow,False
+2211,Snow Cover,Moraine,False
+2107,Moraine Dammed,Moraine,False
+1992,Snow Cover,Moraine,False
+1316,Snow Cover,Snow Cover,True
+654,Moraine Dammed,Snow Cover,False
+1795,Terrain Shadow,Terraine Shadow,False
+1147,Snow Cover,Snow Cover,True
+470,Moraine Dammed,Snow Cover,False
+1218,Moraine Dammed,Moraine,False
+538,Moraine Dammed,Moraine,False
+48,Moraine Dammed,Moraine,False
+686,Cloud Cover,Cloud Cover,True
+2343,Moraine Dammed,Moraine,False
+2206,Snow Cover,Snow Cover,True
+1096,Snow Cover,Snow Cover,True
+2141,Snow Cover,Snow Cover,True
+1170,Snow Cover,Snow Cover,True
+1819,Terrain Shadow,Terraine Shadow,False
+1133,Moraine Dammed,Moraine,False
+1898,Terrain Shadow,Terraine Shadow,False
+819,Terrain Shadow,Terraine Shadow,False
+1903,Debris Cover,Debris Cover,True
+341,Moraine Dammed,Moraine,False
+1758,Moraine Dammed,Moraine,False
+359,Snow Cover,Snow Cover,True
+339,Snow Cover,Snow Cover,True
+921,Debris Cover,Debris Cover,True
+244,Moraine Dammed,Snow Cover,False
+804,Snow Cover,Snow Cover,True
+1052,Snow Cover,Moraine,False
+109,Moraine Dammed,Moraine,False
+765,Snow Cover,Snow Cover,True
+177,Debris Cover,Debris Cover,True
+2106,Moraine Dammed,Moraine,False
+713,Moraine Dammed,Moraine,False
+2267,Moraine Dammed,Moraine,False
+630,Moraine Dammed,Moraine,False
+1012,Moraine Dammed,Moraine,False
+1374,Terrain Shadow,Terraine Shadow,False
+90,Debris Cover,Debris Cover,True
+1733,Snow Cover,Snow Cover,True
+405,Moraine Dammed,Moraine,False
+1070,Terrain Shadow,Terraine Shadow,False
+22,Terrain Shadow,Terraine Shadow,False
+1677,Snow Cover,Snow Cover,True
+2280,Debris Cover,Debris Cover,True
+995,Snow Cover,Snow Cover,True
+529,Debris Cover,Terraine Shadow,False
+210,Moraine Dammed,Snow Cover,False
+1370,Terrain Shadow,Terraine Shadow,False
+1278,Terrain Shadow,Terraine Shadow,False
+491,Debris Cover,Debris Cover,True
+1935,Snow Cover,Snow Cover,True
+288,Debris Cover,Debris Cover,True
+163,Moraine Dammed,Moraine,False
+509,Moraine Dammed,Moraine,False
+983,Moraine Dammed,Moraine,False
+548,Snow Cover,Snow Cover,True
+1019,Snow Cover,Snow Cover,True
+904,Terrain Shadow,Terraine Shadow,False
+332,Moraine Dammed,Moraine,False
+2318,Snow Cover,Snow Cover,True
+1486,Moraine Dammed,Moraine,False
+1389,Debris Cover,Debris Cover,True
+973,Moraine Dammed,Moraine,False
+187,Moraine Dammed,Moraine,False
+1678,Snow Cover,Snow Cover,True
+117,Snow Cover,Snow Cover,True
+1993,Varying Turbidity,Turbidity,False
+1508,Moraine Dammed,Moraine,False
+1972,Moraine Dammed,Moraine,False
+1871,Moraine Dammed,Moraine,False
+1645,Moraine Dammed,Moraine,False
+1223,Snow Cover,Snow Cover,True
+434,Terrain Shadow,Terraine Shadow,False
+1672,Debris Cover,Debris Cover,True
+878,Snow Cover,Snow Cover,True
+2365,Varying Turbidity,Turbidity,False
+199,Moraine Dammed,Moraine,False
+1327,Moraine Dammed,Moraine,False
+1860,Snow Cover,Snow Cover,True
+1867,Moraine Dammed,Moraine,False
+648,Debris Cover,Debris Cover,True
+239,Snow Cover,Snow Cover,True
+1168,Snow Cover,Snow Cover,True
+1100,Terrain Shadow,Terraine Shadow,False
+426,Moraine Dammed,Moraine,False
+205,Moraine Dammed,Debris Cover,False
+620,Terrain Shadow,Terraine Shadow,False
+1285,Snow Cover,Snow Cover,True
+1606,Snow Cover,Snow Cover,True
+1774,Snow Cover,Snow Cover,True
+699,Moraine Dammed,Moraine,False
+627,Snow Cover,Snow Cover,True
+917,Debris Cover,Debris Cover,True
+1534,Moraine Dammed,Moraine,False
+252,Moraine Dammed,Moraine,False
+2238,Debris Cover,Debris Cover,True
+273,Moraine Dammed,Moraine,False
+2078,Terrain Shadow,Terraine Shadow,False
+1776,Snow Cover,Snow Cover,True
+472,Moraine Dammed,Terraine Shadow,False
+759,Snow Cover,Snow Cover,True
+1802,Moraine Dammed,Snow Cover,False
+1878,Moraine Dammed,Moraine,False
+196,Snow Cover,Snow Cover,True
+956,Moraine Dammed,Moraine,False
+1605,Debris Cover,Terraine Shadow,False
+1632,Varying Turbidity,Turbidity,False
+1474,Snow Cover,Snow Cover,True
+1246,Moraine Dammed,Moraine,False
+2050,Debris Cover,Snow Cover,False
+910,Moraine Dammed,Moraine,False
+2104,Debris Cover,Debris Cover,True
+1325,Varying Turbidity,Debris Cover,False
+766,Snow Cover,Snow Cover,True
+1353,Snow Cover,Snow Cover,True
+354,Moraine Dammed,Moraine,False
+2265,Debris Cover,Debris Cover,True
+1559,Moraine Dammed,Moraine,False
+731,Moraine Dammed,Moraine,False
+1444,Snow Cover,Snow Cover,True
+1122,Moraine Dammed,Moraine,False
+1230,Terrain Shadow,Terraine Shadow,False
+1385,Snow Cover,Snow Cover,True
+181,Debris Cover,Snow Cover,False
+583,Snow Cover,Debris Cover,False
+2102,Snow Cover,Snow Cover,True
+1601,Varying Turbidity,Snow Cover,False
+2084,Snow Cover,Snow Cover,True
+2011,Varying Turbidity,Debris Cover,False
+2199,Snow Cover,Snow Cover,True
+966,Snow Cover,Snow Cover,True
+888,Snow Cover,Moraine,False
+837,Terrain Shadow,Terraine Shadow,False
+1123,Snow Cover,Snow Cover,True
+587,Debris Cover,Debris Cover,True
+2082,Debris Cover,Debris Cover,True
+1837,Moraine Dammed,Moraine,False
+1200,Snow Cover,Snow Cover,True
+2099,Snow Cover,Snow Cover,True
+1536,Varying Turbidity,Debris Cover,False
+1187,Moraine Dammed,Moraine,False
+1712,Debris Cover,Debris Cover,True
+514,Snow Cover,Snow Cover,True
+368,Moraine Dammed,Moraine,False
+296,Snow Cover,Snow Cover,True
+964,Debris Cover,Debris Cover,True
+1283,Debris Cover,Moraine,False
+847,Snow Cover,Snow Cover,True
+2355,Debris Cover,Debris Cover,True
+1751,Debris Cover,Debris Cover,True
+1152,Moraine Dammed,Moraine,False
+1463,Moraine Dammed,Moraine,False
+1331,Terrain Shadow,Moraine,False
+1881,Debris Cover,Debris Cover,True
+378,Moraine Dammed,Debris Cover,False
+2273,Moraine Dammed,Moraine,False
+79,Moraine Dammed,Moraine,False
+1671,Snow Cover,Snow Cover,True
+1571,Debris Cover,Debris Cover,True
+154,Moraine Dammed,Moraine,False
+2272,Moraine Dammed,Moraine,False
+871,Moraine Dammed,Snow Cover,False
+1816,Snow Cover,Snow Cover,True
+915,Snow Cover,Snow Cover,True
+1400,Moraine Dammed,Moraine,False
+1295,Debris Cover,Debris Cover,True
+691,Moraine Dammed,Moraine,False
+1006,Snow Cover,Snow Cover,True
+1869,Moraine Dammed,Moraine,False
+2003,Moraine Dammed,Moraine,False
+604,Moraine Dammed,Moraine,False
+1221,Moraine Dammed,Moraine,False
+785,Snow Cover,Snow Cover,True
+1275,Snow Cover,Snow Cover,True
+1103,Moraine Dammed,Debris Cover,False
+2278,Snow Cover,Snow Cover,True
+2162,Debris Cover,Debris Cover,True
+1968,Moraine Dammed,Moraine,False
+1923,Terrain Shadow,Terraine Shadow,False
+989,Moraine Dammed,Moraine,False
+787,Snow Cover,Snow Cover,True
+1811,Debris Cover,Debris Cover,True
+1529,Snow Cover,Snow Cover,True
+502,Snow Cover,Snow Cover,True
+1255,Moraine Dammed,Moraine,False
+44,Snow Cover,Snow Cover,True
+1042,Debris Cover,Debris Cover,True
+1853,Moraine Dammed,Moraine,False
+1619,Moraine Dammed,Moraine,False
+1245,Terrain Shadow,Terraine Shadow,False
+468,Snow Cover,Snow Cover,True
+297,Moraine Dammed,Moraine,False
+1328,Terrain Shadow,Terraine Shadow,False
+865,Moraine Dammed,Moraine,False
+1698,Snow Cover,Snow Cover,True
+1973,Moraine Dammed,Moraine,False
+501,Snow Cover,Moraine,False
+1136,Snow Cover,Snow Cover,True
+471,Moraine Dammed,Moraine,False
+2349,Snow Cover,Snow Cover,True
+103,Snow Cover,Snow Cover,True
+1552,Moraine Dammed,Moraine,False
+2303,Snow Cover,Snow Cover,True
+2164,Moraine Dammed,Snow Cover,False
+1040,Terrain Shadow,Terraine Shadow,False
+1861,Snow Cover,Snow Cover,True
+324,Moraine Dammed,Moraine,False
+1384,Moraine Dammed,Moraine,False
+1530,Debris Cover,Snow Cover,False
+349,Snow Cover,Snow Cover,True
+864,Moraine Dammed,Moraine,False
+1009,Moraine Dammed,Moraine,False
+950,Snow Cover,Snow Cover,True
+1961,Snow Cover,Snow Cover,True
+1021,Debris Cover,Debris Cover,True
+954,Snow Cover,Snow Cover,True
+1289,Snow Cover,Moraine,False
+259,Debris Cover,Debris Cover,True
+447,Moraine Dammed,Moraine,False
+516,Snow Cover,Snow Cover,True
+134,Terrain Shadow,Moraine,False
+2105,Moraine Dammed,Terraine Shadow,False
+1786,Moraine Dammed,Moraine,False
+1338,Moraine Dammed,Moraine,False
+363,Moraine Dammed,Moraine,False
+1870,Snow Cover,Snow Cover,True
+2175,Snow Cover,Snow Cover,True
+484,Moraine Dammed,Moraine,False
+1335,Snow Cover,Snow Cover,True
+1519,Moraine Dammed,Moraine,False
+135,Snow Cover,Snow Cover,True
+693,Debris Cover,Debris Cover,True
+1490,Moraine Dammed,Moraine,False
+1696,Snow Cover,Snow Cover,True
+573,Snow Cover,Snow Cover,True
+1354,Varying Turbidity,Turbidity,False
+1693,Moraine Dammed,Moraine,False
+1946,Terrain Shadow,Terraine Shadow,False
+490,Debris Cover,Debris Cover,True
+317,Debris Cover,Debris Cover,True
+1864,Moraine Dammed,Moraine,False
+37,Snow Cover,Snow Cover,True
+431,Snow Cover,Snow Cover,True
+1777,Moraine Dammed,Moraine,False
+504,Terrain Shadow,Terraine Shadow,False
+98,Moraine Dammed,Moraine,False
+1343,Moraine Dammed,Moraine,False
+2153,Varying Turbidity,Debris Cover,False
+880,Snow Cover,Snow Cover,True
+190,Snow Cover,Snow Cover,True
+858,Moraine Dammed,Moraine,False
+1630,Snow Cover,Snow Cover,True
+1433,Terrain Shadow,Terraine Shadow,False
+1909,Moraine Dammed,Moraine,False
+1030,Moraine Dammed,Moraine,False
+1607,Snow Cover,Snow Cover,True
+684,Moraine Dammed,Moraine,False
+1362,Snow Cover,Snow Cover,True
+2226,Moraine Dammed,Moraine,False
+2020,Snow Cover,Snow Cover,True
+1986,Moraine Dammed,Moraine,False
+1256,Moraine Dammed,Moraine,False
+326,Terrain Shadow,Terraine Shadow,False
+403,Debris Cover,Debris Cover,True
+2015,Snow Cover,Snow Cover,True
+1539,Moraine Dammed,Moraine,False
+131,Debris Cover,Debris Cover,True
+647,Snow Cover,Debris Cover,False
+534,Moraine Dammed,Moraine,False
+1158,Snow Cover,Snow Cover,True
+2232,Varying Turbidity,Turbidity,False
+1943,Terrain Shadow,Terraine Shadow,False
+331,Snow Cover,Snow Cover,True
+335,Snow Cover,Snow Cover,True
+1323,Varying Turbidity,Turbidity,False
+1514,Varying Turbidity,Moraine,False
+2124,Moraine Dammed,Moraine,False
+1954,Moraine Dammed,Moraine,False
+702,Moraine Dammed,Moraine,False
+1423,Snow Cover,Snow Cover,True
+1511,Debris Cover,Moraine,False
+1644,Moraine Dammed,Moraine,False
+2174,Snow Cover,Snow Cover,True
+2231,Snow Cover,Snow Cover,True
+223,Snow Cover,Snow Cover,True
+1057,Moraine Dammed,Snow Cover,False
+2142,Snow Cover,Snow Cover,True
+2291,Snow Cover,Snow Cover,True
+2103,Terrain Shadow,Terraine Shadow,False
+960,Snow Cover,Snow Cover,True
+170,Moraine Dammed,Moraine,False
+1029,Moraine Dammed,Moraine,False
+1624,Snow Cover,Snow Cover,True
+1556,Moraine Dammed,Moraine,False
+2004,Snow Cover,Snow Cover,True
+255,Moraine Dammed,Debris Cover,False
+1895,Debris Cover,Debris Cover,True
+788,Terrain Shadow,Terraine Shadow,False
+624,Snow Cover,Snow Cover,True
+2362,Snow Cover,Snow Cover,True
+51,Moraine Dammed,Moraine,False
+1711,Snow Cover,Snow Cover,True
+902,Snow Cover,Snow Cover,True
+775,Debris Cover,Snow Cover,False
+1880,Snow Cover,Snow Cover,True
+486,Debris Cover,Debris Cover,True
+953,Moraine Dammed,Moraine,False
+1060,Snow Cover,Snow Cover,True
+2221,Moraine Dammed,Moraine,False
+1099,Snow Cover,Snow Cover,True
+1603,Varying Turbidity,Turbidity,False
+1667,Snow Cover,Snow Cover,True
+432,Moraine Dammed,Moraine,False
+1414,Snow Cover,Snow Cover,True
+1735,Snow Cover,Snow Cover,True
+1674,Snow Cover,Snow Cover,True
+1315,Debris Cover,Snow Cover,False
+1919,Moraine Dammed,Moraine,False
+1035,Moraine Dammed,Moraine,False
+1799,Snow Cover,Snow Cover,True
+1301,Moraine Dammed,Moraine,False
+2208,Varying Turbidity,Moraine,False
+381,Moraine Dammed,Moraine,False
+321,Moraine Dammed,Moraine,False
+1569,Snow Cover,Snow Cover,True
+828,Snow Cover,Moraine,False
+329,Debris Cover,Snow Cover,False
+1361,Moraine Dammed,Moraine,False
+1069,Moraine Dammed,Moraine,False
+2214,Moraine Dammed,Moraine,False
+591,Terrain Shadow,Moraine,False
+1771,Moraine Dammed,Moraine,False
+2074,Snow Cover,Snow Cover,True
+1675,Moraine Dammed,Turbidity,False
+2077,Moraine Dammed,Moraine,False
+2333,Varying Turbidity,Turbidity,False
+1766,Terrain Shadow,Terraine Shadow,False
+887,Debris Cover,Debris Cover,True
+1745,Debris Cover,Debris Cover,True
+179,Snow Cover,Snow Cover,True
+1856,Moraine Dammed,Moraine,False
+423,Moraine Dammed,Snow Cover,False
+732,Moraine Dammed,Moraine,False
+1220,Terrain Shadow,Terraine Shadow,False
+1770,Snow Cover,Snow Cover,True
+1461,Moraine Dammed,Moraine,False
+86,Snow Cover,Moraine,False
+28,Moraine Dammed,Moraine,False
+1233,Moraine Dammed,Moraine,False
+2247,Moraine Dammed,Snow Cover,False
+706,Terrain Shadow,Terraine Shadow,False
+73,Snow Cover,Snow Cover,True
+2115,Snow Cover,Moraine,False
+963,Debris Cover,Debris Cover,True
+2165,Moraine Dammed,Moraine,False
+1252,Terrain Shadow,Terraine Shadow,False
+2008,Moraine Dammed,Moraine,False
+1435,Moraine Dammed,Moraine,False
+2269,Moraine Dammed,Moraine,False
+1964,Snow Cover,Snow Cover,True
+281,Moraine Dammed,Moraine,False
+1550,Snow Cover,Snow Cover,True
+2022,Terrain Shadow,Snow Cover,False
+1364,Snow Cover,Snow Cover,True
+1517,Debris Cover,Debris Cover,True
+373,Snow Cover,Snow Cover,True
+701,Snow Cover,Snow Cover,True
+1402,Snow Cover,Snow Cover,True
+355,Terrain Shadow,Terraine Shadow,False
+1358,Debris Cover,Debris Cover,True
+2241,Moraine Dammed,Moraine,False
+1288,Snow Cover,Snow Cover,True
+577,Snow Cover,Snow Cover,True
+1682,Terrain Shadow,Terraine Shadow,False
+1360,Snow Cover,Snow Cover,True
+1477,Snow Cover,Snow Cover,True
+1344,Moraine Dammed,Moraine,False
+1143,Debris Cover,Debris Cover,True
+1670,Debris Cover,Debris Cover,True
+586,Snow Cover,Snow Cover,True
+846,Terrain Shadow,Snow Cover,False
+770,Snow Cover,Snow Cover,True
+883,Debris Cover,Moraine,False
+445,Debris Cover,Debris Cover,True
+224,Moraine Dammed,Moraine,False
+1151,Moraine Dammed,Moraine,False
+35,Moraine Dammed,Moraine,False
+1305,Moraine Dammed,Moraine,False
+1417,Moraine Dammed,Moraine,False
+176,Debris Cover,Debris Cover,True
+606,Moraine Dammed,Moraine,False
+1918,Moraine Dammed,Moraine,False
+753,Moraine Dammed,Moraine,False
+2294,Moraine Dammed,Moraine,False
+343,Moraine Dammed,Moraine,False
+57,Moraine Dammed,Moraine,False
+1814,Varying Turbidity,Terraine Shadow,False
+309,Terrain Shadow,Moraine,False
+1703,Snow Cover,Snow Cover,True
+31,Moraine Dammed,Moraine,False
+1443,Moraine Dammed,Moraine,False
+795,Moraine Dammed,Moraine,False
+1941,Moraine Dammed,Moraine,False
+1150,Moraine Dammed,Moraine,False
+515,Terrain Shadow,Moraine,False
+2000,Snow Cover,Moraine,False
+628,Moraine Dammed,Moraine,False
+2244,Varying Turbidity,Turbidity,False
+137,Moraine Dammed,Moraine,False
+387,Snow Cover,Snow Cover,True
+1432,Snow Cover,Snow Cover,True
+961,Moraine Dammed,Moraine,False
+303,Snow Cover,Snow Cover,True
+2205,Varying Turbidity,Turbidity,False
+218,Moraine Dammed,Moraine,False
+692,Snow Cover,Snow Cover,True
+1659,Moraine Dammed,Moraine,False
+638,Moraine Dammed,Moraine,False
+1039,Snow Cover,Moraine,False
+164,Snow Cover,Snow Cover,True
+2086,Moraine Dammed,Moraine,False
+1792,Snow Cover,Snow Cover,True
+590,Moraine Dammed,Moraine,False
+2056,Moraine Dammed,Moraine,False
+82,Moraine Dammed,Moraine,False
+526,Snow Cover,Snow Cover,True
+2296,Moraine Dammed,Debris Cover,False
+1797,Debris Cover,Debris Cover,True
+1265,Debris Cover,Debris Cover,True
+892,Snow Cover,Snow Cover,True
+1296,Snow Cover,Snow Cover,True
+1001,Moraine Dammed,Terraine Shadow,False
+1588,Snow Cover,Snow Cover,True
+2149,Snow Cover,Snow Cover,True
+672,Debris Cover,Debris Cover,True
+328,Snow Cover,Snow Cover,True
+1317,Moraine Dammed,Terraine Shadow,False
+868,Snow Cover,Snow Cover,True
+1542,Snow Cover,Snow Cover,True
+2350,Moraine Dammed,Snow Cover,False
+1059,Snow Cover,Snow Cover,True
+399,Snow Cover,Snow Cover,True
+1609,Debris Cover,Debris Cover,True
+1212,Moraine Dammed,Moraine,False
+467,Moraine Dammed,Moraine,False
+1806,Snow Cover,Snow Cover,True
+2187,Moraine Dammed,Moraine,False
+645,Snow Cover,Snow Cover,True
+592,Moraine Dammed,Moraine,False
+161,Moraine Dammed,Moraine,False
+1875,Snow Cover,Snow Cover,True
+494,Terrain Shadow,Terraine Shadow,False
+1304,Snow Cover,Snow Cover,True
+1134,Snow Cover,Snow Cover,True
+1115,Terrain Shadow,Terraine Shadow,False
+1043,Snow Cover,Snow Cover,True
+772,Snow Cover,Snow Cover,True
+768,Moraine Dammed,Moraine,False
+1710,Moraine Dammed,Moraine,False
+155,Snow Cover,Snow Cover,True
+1532,Snow Cover,Snow Cover,True
+1439,Snow Cover,Snow Cover,True
+987,Debris Cover,Snow Cover,False
+2223,Snow Cover,Snow Cover,True
+2277,Snow Cover,Snow Cover,True
+139,Terrain Shadow,Terraine Shadow,False
+1572,Moraine Dammed,Moraine,False
+1507,Moraine Dammed,Moraine,False
+926,Snow Cover,Snow Cover,True
+1217,Snow Cover,Snow Cover,True
+233,Snow Cover,Snow Cover,True
+1203,Snow Cover,Snow Cover,True
+1311,Snow Cover,Snow Cover,True
+2173,Snow Cover,Snow Cover,True
+1709,Moraine Dammed,Moraine,False
+2068,Debris Cover,Debris Cover,True
+1713,Snow Cover,Snow Cover,True
+1406,Snow Cover,Snow Cover,True
+2225,Snow Cover,Snow Cover,True
+87,Snow Cover,Snow Cover,True
+1277,Snow Cover,Snow Cover,True
+182,Moraine Dammed,Moraine,False
+619,Moraine Dammed,Terraine Shadow,False
+1566,Moraine Dammed,Moraine,False
+1767,Moraine Dammed,Moraine,False
+948,Snow Cover,Snow Cover,True
+1416,Varying Turbidity,Turbidity,False
+1462,Snow Cover,Snow Cover,True
+735,Moraine Dammed,Moraine,False
+1383,Snow Cover,Snow Cover,True
+422,Snow Cover,Snow Cover,True
+1118,Moraine Dammed,Moraine,False
+1854,Snow Cover,Snow Cover,True
+1720,Snow Cover,Snow Cover,True
+2043,Snow Cover,Debris Cover,False
+204,Moraine Dammed,Moraine,False
+853,Moraine Dammed,Moraine,False
+1348,Terrain Shadow,Terraine Shadow,False
+1051,Moraine Dammed,Moraine,False
+1616,Snow Cover,Snow Cover,True
+2347,Snow Cover,Snow Cover,True
+584,Snow Cover,Snow Cover,True
+1088,Moraine Dammed,Moraine,False
+1718,Snow Cover,Snow Cover,True
+1991,Moraine Dammed,Moraine,False
+1307,Snow Cover,Snow Cover,True
+1356,Snow Cover,Snow Cover,True
+495,Snow Cover,Snow Cover,True
+27,Snow Cover,Snow Cover,True
+69,Snow Cover,Snow Cover,True
+557,Moraine Dammed,Moraine,False
+1998,Moraine Dammed,Moraine,False
+1704,Debris Cover,Moraine,False
+1971,Moraine Dammed,Moraine,False
+1429,Debris Cover,Debris Cover,True
+201,Moraine Dammed,Moraine,False
+1848,Moraine Dammed,Moraine,False
+2337,Snow Cover,Snow Cover,True
+1528,Snow Cover,Snow Cover,True
+972,Debris Cover,Debris Cover,True
+1229,Moraine Dammed,Moraine,False
+2260,Snow Cover,Snow Cover,True
+1107,Snow Cover,Snow Cover,True
+993,Snow Cover,Snow Cover,True
+2092,Varying Turbidity,Turbidity,False
+358,Snow Cover,Snow Cover,True
+562,Moraine Dammed,Moraine,False
+722,Moraine Dammed,Moraine,False
+1783,Snow Cover,Moraine,False
+1577,Terrain Shadow,Moraine,False
+237,Snow Cover,Moraine,False
+1565,Debris Cover,Debris Cover,True
+786,Snow Cover,Snow Cover,True
+884,Snow Cover,Snow Cover,True
+2117,Moraine Dammed,Moraine,False
+815,Moraine Dammed,Moraine,False
+395,Snow Cover,Snow Cover,True
+593,Moraine Dammed,Snow Cover,False
+1481,Moraine Dammed,Moraine,False
+1996,Moraine Dammed,Snow Cover,False
+626,Moraine Dammed,Moraine,False
+1475,Moraine Dammed,Terraine Shadow,False
+1109,Terrain Shadow,Terraine Shadow,False
+1963,Moraine Dammed,Debris Cover,False
+1549,Moraine Dammed,Moraine,False
+298,Moraine Dammed,Moraine,False
+178,Snow Cover,Snow Cover,True
+2335,Snow Cover,Snow Cover,True
+1498,Snow Cover,Snow Cover,True
+2096,Snow Cover,Snow Cover,True
+497,Moraine Dammed,Moraine,False
+384,Debris Cover,Debris Cover,True
+727,Snow Cover,Snow Cover,True
+481,Terrain Shadow,Terraine Shadow,False
+1452,Terrain Shadow,Terraine Shadow,False
+852,Moraine Dammed,Moraine,False
+760,Moraine Dammed,Moraine,False
+574,Snow Cover,Snow Cover,True
+1232,Moraine Dammed,Moraine,False
+1062,Debris Cover,Debris Cover,True
+1643,Terrain Shadow,Snow Cover,False
+391,Snow Cover,Debris Cover,False
+1299,Snow Cover,Snow Cover,True
+556,Snow Cover,Terraine Shadow,False
+1154,Moraine Dammed,Moraine,False
+542,Terrain Shadow,Snow Cover,False
+2049,Terrain Shadow,Moraine,False
+1290,Debris Cover,Debris Cover,True
+618,Terrain Shadow,Terraine Shadow,False
+2293,Debris Cover,Debris Cover,True
+658,Snow Cover,Snow Cover,True
+716,Snow Cover,Snow Cover,True
+1322,Moraine Dammed,Snow Cover,False
+680,Snow Cover,Snow Cover,True
+1679,Varying Turbidity,Turbidity,False
+1392,Moraine Dammed,Moraine,False
+682,Snow Cover,Snow Cover,True
+1570,Moraine Dammed,Moraine,False
+1113,Snow Cover,Snow Cover,True
+1425,Snow Cover,Snow Cover,True
+1905,Moraine Dammed,Moraine,False
+382,Moraine Dammed,Terraine Shadow,False
+2268,Snow Cover,Snow Cover,True
+1379,Debris Cover,Debris Cover,True
+1225,Moraine Dammed,Moraine,False
+1596,Terrain Shadow,Terraine Shadow,False
+1253,Moraine Dammed,Moraine,False
+284,Snow Cover,Snow Cover,True
+1582,Snow Cover,Snow Cover,True
+230,Snow Cover,Snow Cover,True
+307,Moraine Dammed,Moraine,False
+1199,Snow Cover,Snow Cover,True
+70,Snow Cover,Snow Cover,True
+2213,Moraine Dammed,Moraine,False
+1858,Debris Cover,Debris Cover,True
+411,Debris Cover,Debris Cover,True
+796,Debris Cover,Debris Cover,True
+907,Moraine Dammed,Terraine Shadow,False
+2252,Moraine Dammed,Moraine,False
+1261,Moraine Dammed,Moraine,False
+1655,Moraine Dammed,Moraine,False
+1287,Varying Turbidity,Turbidity,False
+2055,Snow Cover,Snow Cover,True
+1807,Moraine Dammed,Moraine,False
+2085,Varying Turbidity,Turbidity,False
+2048,Debris Cover,Snow Cover,False
+374,Terrain Shadow,Terraine Shadow,False
+1247,Moraine Dammed,Moraine,False
+631,Moraine Dammed,Moraine,False
+1649,Snow Cover,Snow Cover,True
+1773,Debris Cover,Debris Cover,True
+407,Snow Cover,Snow Cover,True
+1341,Moraine Dammed,Moraine,False
+1657,Snow Cover,Snow Cover,True
+235,Moraine Dammed,Moraine,False
+95,Terrain Shadow,Terraine Shadow,False
+191,Moraine Dammed,Moraine,False
+651,Snow Cover,Snow Cover,True
+2045,Moraine Dammed,Debris Cover,False
+1396,Snow Cover,Snow Cover,True
+2266,Debris Cover,Debris Cover,True
+1642,Moraine Dammed,Moraine,False
+2217,Moraine Dammed,Moraine,False
+1044,Snow Cover,Snow Cover,True
+1976,Varying Turbidity,Turbidity,False
+2186,Varying Turbidity,Turbidity,False
+1948,Moraine Dammed,Moraine,False
+1404,Snow Cover,Snow Cover,True
+1702,Terrain Shadow,Terraine Shadow,False
+1121,Moraine Dammed,Moraine,False
+813,Debris Cover,Snow Cover,False
+2271,Snow Cover,Snow Cover,True
+1995,Snow Cover,Snow Cover,True
+414,Debris Cover,Moraine,False
+1721,Snow Cover,Moraine,False
+2094,Moraine Dammed,Snow Cover,False
+885,Snow Cover,Snow Cover,True
+416,Debris Cover,Debris Cover,True
+1551,Snow Cover,Snow Cover,True
+1626,Moraine Dammed,Moraine,False
+951,Debris Cover,Debris Cover,True
+1999,Snow Cover,Snow Cover,True
+1930,Moraine Dammed,Moraine,False
+1750,Snow Cover,Snow Cover,True
+2009,Debris Cover,Snow Cover,False
+353,Snow Cover,Snow Cover,True
+2028,Moraine Dammed,Moraine,False
+2309,Snow Cover,Moraine,False
+754,Moraine Dammed,Moraine,False
+2031,Moraine Dammed,Moraine,False
+1590,Moraine Dammed,Moraine,False
+1842,Snow Cover,Snow Cover,True
+2089,Moraine Dammed,Moraine,False
+498,Moraine Dammed,Snow Cover,False
+1829,Moraine Dammed,Moraine,False
+959,Snow Cover,Snow Cover,True
+588,Cloud Cover,Cloud Cover,True
+377,Terrain Shadow,Terraine Shadow,False
+34,Moraine Dammed,Moraine,False
+1025,Snow Cover,Snow Cover,True
+603,Debris Cover,Snow Cover,False
+1073,Moraine Dammed,Moraine,False
+2290,Moraine Dammed,Moraine,False
+1535,Moraine Dammed,Moraine,False
+1188,Moraine Dammed,Moraine,False
+1804,Snow Cover,Snow Cover,True
+375,Moraine Dammed,Snow Cover,False
+1085,Debris Cover,Debris Cover,True
+931,Snow Cover,Snow Cover,True
+1987,Terrain Shadow,Terraine Shadow,False
+1472,Snow Cover,Snow Cover,True
+1934,Snow Cover,Snow Cover,True
+609,Terrain Shadow,Terraine Shadow,False
+2200,Snow Cover,Moraine,False
+2111,Terrain Shadow,Terraine Shadow,False
+1608,Moraine Dammed,Moraine,False
+1190,Debris Cover,Debris Cover,True
+2129,Moraine Dammed,Moraine,False
+708,Moraine Dammed,Moraine,False
+829,Snow Cover,Snow Cover,True
+1683,Snow Cover,Snow Cover,True
+499,Moraine Dammed,Moraine,False
+1691,Terrain Shadow,Terraine Shadow,False
+1727,Varying Turbidity,Moraine,False
+78,Snow Cover,Snow Cover,True
+1174,Snow Cover,Snow Cover,True
+1189,Moraine Dammed,Moraine,False
+2039,Snow Cover,Snow Cover,True
+2332,Snow Cover,Snow Cover,True
+748,Snow Cover,Snow Cover,True
+2152,Moraine Dammed,Moraine,False
+42,Moraine Dammed,Moraine,False
+1714,Snow Cover,Snow Cover,True
+265,Moraine Dammed,Moraine,False
+555,Snow Cover,Snow Cover,True
+9,Moraine Dammed,Moraine,False
+1111,Snow Cover,Snow Cover,True
+1413,Snow Cover,Moraine,False
+1834,Moraine Dammed,Moraine,False
+2026,Snow Cover,Snow Cover,True
+979,Terrain Shadow,Terraine Shadow,False
+397,Snow Cover,Snow Cover,True
+225,Snow Cover,Snow Cover,True
+949,Snow Cover,Snow Cover,True
+247,Snow Cover,Snow Cover,True
+537,Moraine Dammed,Moraine,False
+276,Snow Cover,Snow Cover,True
+1004,Moraine Dammed,Moraine,False
+2182,Snow Cover,Snow Cover,True
+1431,Terrain Shadow,Moraine,False
+599,Debris Cover,Debris Cover,True
+1755,Debris Cover,Debris Cover,True
+1638,Debris Cover,Moraine,False
+1947,Snow Cover,Snow Cover,True
+52,Terrain Shadow,Snow Cover,False
+2090,Snow Cover,Snow Cover,True
+2136,Snow Cover,Snow Cover,True
+452,Snow Cover,Moraine,False
+1744,Debris Cover,Debris Cover,True
+734,Terrain Shadow,Terraine Shadow,False
+2118,Snow Cover,Snow Cover,True
+2240,Snow Cover,Snow Cover,True
+2191,Debris Cover,Debris Cover,True
+803,Debris Cover,Debris Cover,True
+314,Moraine Dammed,Moraine,False
+958,Snow Cover,Snow Cover,True
+1007,Terrain Shadow,Terraine Shadow,False
+1740,Snow Cover,Snow Cover,True
+1308,Debris Cover,Debris Cover,True
+1593,Snow Cover,Snow Cover,True
+1282,Snow Cover,Snow Cover,True
+2235,Moraine Dammed,Snow Cover,False
+610,Moraine Dammed,Moraine,False
+59,Snow Cover,Snow Cover,True
+1178,Moraine Dammed,Moraine,False
+816,Snow Cover,Snow Cover,True
+77,Snow Cover,Snow Cover,True
+1329,Varying Turbidity,Moraine,False
+1548,Moraine Dammed,Moraine,False
+1715,Moraine Dammed,Moraine,False
+1695,Snow Cover,Snow Cover,True
+712,Snow Cover,Snow Cover,True
+120,Snow Cover,Snow Cover,True
+1090,Terrain Shadow,Terraine Shadow,False
+649,Snow Cover,Snow Cover,True
+1197,Debris Cover,Debris Cover,True
+2016,Terrain Shadow,Terraine Shadow,False
+1689,Snow Cover,Snow Cover,True
+900,Terrain Shadow,Moraine,False
+2288,Moraine Dammed,Moraine,False
+2075,Snow Cover,Snow Cover,True
+637,Debris Cover,Debris Cover,True
+1960,Varying Turbidity,Moraine,False
+2036,Terrain Shadow,Terraine Shadow,False
+1939,Moraine Dammed,Moraine,False
+1921,Moraine Dammed,Moraine,False
+607,Moraine Dammed,Moraine,False
+639,Terrain Shadow,Terraine Shadow,False
+696,Debris Cover,Debris Cover,True
+2270,Snow Cover,Snow Cover,True
+2284,Moraine Dammed,Moraine,False
+243,Moraine Dammed,Moraine,False
+629,Snow Cover,Snow Cover,True
+2069,Moraine Dammed,Moraine,False
+1378,Snow Cover,Snow Cover,True
+104,Snow Cover,Snow Cover,True
+1665,Moraine Dammed,Moraine,False
+1394,Moraine Dammed,Moraine,False
+129,Moraine Dammed,Moraine,False
+673,Snow Cover,Snow Cover,True
+707,Snow Cover,Snow Cover,True
+1116,Snow Cover,Snow Cover,True
+365,Terrain Shadow,Terraine Shadow,False
+2019,Moraine Dammed,Snow Cover,False
+1395,Moraine Dammed,Moraine,False
+2166,Snow Cover,Snow Cover,True
+1669,Snow Cover,Snow Cover,True
+320,Cloud Cover,Moraine,False
+1983,Moraine Dammed,Moraine,False
+1820,Moraine Dammed,Moraine,False
+7,Debris Cover,Debris Cover,True
+141,Moraine Dammed,Moraine,False
+2185,Snow Cover,Snow Cover,True
+2123,Moraine Dammed,Moraine,False
+899,Moraine Dammed,Moraine,False
+1888,Moraine Dammed,Moraine,False
+1866,Debris Cover,Debris Cover,True
+1144,Snow Cover,Snow Cover,True
+866,Moraine Dammed,Moraine,False
+1656,Moraine Dammed,Moraine,False
+1962,Moraine Dammed,Moraine,False
+318,Terrain Shadow,Terraine Shadow,False
+1794,Moraine Dammed,Moraine,False
+1139,Moraine Dammed,Moraine,False
+1366,Snow Cover,Snow Cover,True
+1997,Snow Cover,Snow Cover,True
+1779,Moraine Dammed,Moraine,False
+762,Moraine Dammed,Moraine,False
+1215,Snow Cover,Snow Cover,True
+723,Snow Cover,Snow Cover,True
+1367,Debris Cover,Debris Cover,True
+1912,Moraine Dammed,Moraine,False
+2353,Debris Cover,Snow Cover,False
+1345,Varying Turbidity,Turbidity,False
+2112,Terrain Shadow,Terraine Shadow,False
+159,Moraine Dammed,Moraine,False
+617,Moraine Dammed,Moraine,False
+912,Moraine Dammed,Terraine Shadow,False
+1259,Moraine Dammed,Moraine,False
+287,Moraine Dammed,Moraine,False
+1303,Snow Cover,Snow Cover,True
+2071,Snow Cover,Snow Cover,True
+2181,Snow Cover,Moraine,False
+1540,Snow Cover,Snow Cover,True
+2053,Snow Cover,Snow Cover,True
+1028,Moraine Dammed,Snow Cover,False
+2307,Snow Cover,Snow Cover,True
+1149,Snow Cover,Moraine,False
+465,Moraine Dammed,Moraine,False
+1953,Moraine Dammed,Moraine,False
+724,Moraine Dammed,Moraine,False
+2038,Snow Cover,Snow Cover,True
+2183,Debris Cover,Debris Cover,True
+2364,Snow Cover,Snow Cover,True
+1441,Debris Cover,Moraine,False
+666,Moraine Dammed,Moraine,False
+861,Snow Cover,Snow Cover,True
+75,Debris Cover,Debris Cover,True
+1403,Snow Cover,Snow Cover,True
+304,Snow Cover,Snow Cover,True
+2032,Snow Cover,Snow Cover,True
+2239,Moraine Dammed,Moraine,False
+1705,Snow Cover,Snow Cover,True
+1595,Moraine Dammed,Moraine,False
+1493,Snow Cover,Snow Cover,True
+1075,Snow Cover,Snow Cover,True
+811,Terrain Shadow,Terraine Shadow,False
+1754,Varying Turbidity,Debris Cover,False
+763,Snow Cover,Snow Cover,True
+1761,Moraine Dammed,Moraine,False
+1473,Terrain Shadow,Moraine,False
+1300,Snow Cover,Snow Cover,True
+1434,Snow Cover,Terraine Shadow,False
+994,Terrain Shadow,Terraine Shadow,False
+1274,Terrain Shadow,Terraine Shadow,False
+2120,Snow Cover,Snow Cover,True
+436,Debris Cover,Snow Cover,False
+2029,Moraine Dammed,Moraine,False
+1823,Varying Turbidity,Turbidity,False
+1944,Snow Cover,Snow Cover,True
+236,Snow Cover,Snow Cover,True
+1978,Moraine Dammed,Turbidity,False
+1250,Terrain Shadow,Terraine Shadow,False
+1894,Moraine Dammed,Moraine,False
+695,Debris Cover,Debris Cover,True
+1694,Moraine Dammed,Moraine,False
+2345,Snow Cover,Snow Cover,True
+769,Moraine Dammed,Moraine,False
+138,Snow Cover,Snow Cover,True
+523,Snow Cover,Snow Cover,True
+1945,Moraine Dammed,Snow Cover,False
+1013,Snow Cover,Snow Cover,True
+1237,Moraine Dammed,Moraine,False
+1501,Debris Cover,Debris Cover,True
+2297,Varying Turbidity,Snow Cover,False
+2282,Snow Cover,Snow Cover,True
+250,Snow Cover,Snow Cover,True
+656,Debris Cover,Debris Cover,True
+315,Moraine Dammed,Moraine,False
+1562,Terrain Shadow,Terraine Shadow,False
+1120,Snow Cover,Moraine,False
+1262,Moraine Dammed,Moraine,False
+1391,Snow Cover,Snow Cover,True
+1166,Snow Cover,Snow Cover,True
+1629,Moraine Dammed,Moraine,False
+2093,Terrain Shadow,Terraine Shadow,False
+1884,Snow Cover,Snow Cover,True
+1263,Moraine Dammed,Moraine,False
+1526,Debris Cover,Debris Cover,True
+2310,Snow Cover,Snow Cover,True
+1902,Varying Turbidity,Snow Cover,False
+474,Terrain Shadow,Moraine,False
+2210,Moraine Dammed,Moraine,False
+536,Snow Cover,Snow Cover,True
+1828,Snow Cover,Snow Cover,True
+2336,Moraine Dammed,Moraine,False
+1790,Snow Cover,Snow Cover,True
+978,Moraine Dammed,Moraine,False
+1890,Terrain Shadow,Terraine Shadow,False
+1686,Varying Turbidity,Turbidity,False
+1734,Snow Cover,Snow Cover,True
+2128,Snow Cover,Snow Cover,True
+1597,Debris Cover,Debris Cover,True
+1922,Snow Cover,Snow Cover,True
+212,Snow Cover,Snow Cover,True
+1293,Debris Cover,Moraine,False
+1326,Debris Cover,Moraine,False
+893,Moraine Dammed,Moraine,False
+1421,Snow Cover,Moraine,False
+856,Terrain Shadow,Terraine Shadow,False
+40,Snow Cover,Snow Cover,True
+521,Snow Cover,Snow Cover,True
+1094,Moraine Dammed,Moraine,False
+1765,Snow Cover,Snow Cover,True
+254,Debris Cover,Moraine,False
+1167,Debris Cover,Debris Cover,True
+211,Snow Cover,Debris Cover,False
+1260,Moraine Dammed,Moraine,False
+1208,Snow Cover,Snow Cover,True
+1340,Moraine Dammed,Moraine,False
+1020,Moraine Dammed,Moraine,False
+1692,Snow Cover,Snow Cover,True
+920,Snow Cover,Snow Cover,True
+1,Terrain Shadow,Terraine Shadow,False
+1196,Snow Cover,Snow Cover,True
+1524,Snow Cover,Snow Cover,True
+2329,Moraine Dammed,Moraine,False
+1497,Moraine Dammed,Moraine,False
+2138,Snow Cover,Snow Cover,True
+1531,Snow Cover,Snow Cover,True
+1915,Snow Cover,Snow Cover,True
+1342,Snow Cover,Debris Cover,False
+43,Snow Cover,Snow Cover,True
+2178,Moraine Dammed,Moraine,False
+266,Terrain Shadow,Terraine Shadow,False
+1798,Snow Cover,Snow Cover,True
+1393,Snow Cover,Snow Cover,True
+421,Snow Cover,Snow Cover,True
+2331,Snow Cover,Snow Cover,True
+1375,Snow Cover,Snow Cover,True
+115,Terrain Shadow,Terraine Shadow,False
+1084,Debris Cover,Debris Cover,True
+146,Snow Cover,Snow Cover,True
+781,Snow Cover,Snow Cover,True
+841,Moraine Dammed,Moraine,False
+370,Debris Cover,Debris Cover,True
+2132,Snow Cover,Snow Cover,True
+1512,Snow Cover,Snow Cover,True
+2108,Varying Turbidity,Moraine,False
+1280,Moraine Dammed,Moraine,False
+1082,Moraine Dammed,Snow Cover,False
+429,Snow Cover,Snow Cover,True
+809,Moraine Dammed,Moraine,False
+448,Debris Cover,Snow Cover,False
+579,Moraine Dammed,Moraine,False
+1033,Debris Cover,Moraine,False
+1759,Moraine Dammed,Moraine,False
+984,Moraine Dammed,Moraine,False
+1815,Snow Cover,Snow Cover,True
+272,Moraine Dammed,Moraine,False
+132,Moraine Dammed,Moraine,False
+970,Debris Cover,Moraine,False
+323,Debris Cover,Debris Cover,True
+729,Terrain Shadow,Terraine Shadow,False
+127,Terrain Shadow,Moraine,False
+85,Terrain Shadow,Terraine Shadow,False
+1787,Moraine Dammed,Moraine,False
+2080,Moraine Dammed,Moraine,False
+383,Snow Cover,Snow Cover,True
+681,Terrain Shadow,Terraine Shadow,False
+152,Moraine Dammed,Moraine,False
+2030,Moraine Dammed,Moraine,False
+419,Moraine Dammed,Moraine,False
+1984,Terrain Shadow,Terraine Shadow,False
+2061,Moraine Dammed,Snow Cover,False
+911,Moraine Dammed,Moraine,False
+1411,Moraine Dammed,Moraine,False
+1072,Debris Cover,Moraine,False
+2040,Snow Cover,Snow Cover,True
+1805,Snow Cover,Snow Cover,True
+615,Snow Cover,Snow Cover,True
+1495,Varying Turbidity,Snow Cover,False
+1381,Moraine Dammed,Moraine,False
+1957,Snow Cover,Snow Cover,True
+1491,Moraine Dammed,Moraine,False
+333,Terrain Shadow,Terraine Shadow,False
+2168,Snow Cover,Moraine,False
+1697,Debris Cover,Moraine,False
+2261,Snow Cover,Snow Cover,True
+1157,Snow Cover,Moraine,False
+782,Terrain Shadow,Terraine Shadow,False
+736,Debris Cover,Terraine Shadow,False
+1717,Snow Cover,Snow Cover,True
+105,Moraine Dammed,Moraine,False
+844,Moraine Dammed,Moraine,False
+1128,Moraine Dammed,Moraine,False
+1857,Moraine Dammed,Moraine,False
+1438,Moraine Dammed,Moraine,False
+1652,Snow Cover,Snow Cover,True
+777,Snow Cover,Snow Cover,True
+1719,Snow Cover,Snow Cover,True
+17,Moraine Dammed,Moraine,False
+1666,Snow Cover,Moraine,False
+1876,Moraine Dammed,Snow Cover,False
+1446,Snow Cover,Snow Cover,True
+409,Snow Cover,Snow Cover,True
+1112,Snow Cover,Snow Cover,True
+1558,Moraine Dammed,Moraine,False
+1193,Moraine Dammed,Moraine,False
+143,Moraine Dammed,Moraine,False
+851,Snow Cover,Moraine,False
+1886,Snow Cover,Snow Cover,True
+39,Moraine Dammed,Moraine,False
+401,Moraine Dammed,Moraine,False
+1467,Debris Cover,Debris Cover,True
+334,Snow Cover,Snow Cover,True
+479,Snow Cover,Snow Cover,True
+1488,Snow Cover,Snow Cover,True
+477,Moraine Dammed,Moraine,False
+1851,Snow Cover,Moraine,False
+2360,Snow Cover,Snow Cover,True
+2207,Moraine Dammed,Snow Cover,False
+1614,Snow Cover,Snow Cover,True
+826,Moraine Dammed,Moraine,False
+2339,Moraine Dammed,Moraine,False
+2018,Moraine Dammed,Moraine,False
+1269,Snow Cover,Snow Cover,True
+19,Moraine Dammed,Snow Cover,False
+2135,Debris Cover,Debris Cover,True
+1371,Snow Cover,Snow Cover,True
+2130,Snow Cover,Snow Cover,True
+1214,Snow Cover,Snow Cover,True
+1478,Moraine Dammed,Moraine,False
+94,Terrain Shadow,Terraine Shadow,False
+1146,Snow Cover,Snow Cover,True
+1610,Snow Cover,Snow Cover,True
+219,Terrain Shadow,Terraine Shadow,False
+559,Debris Cover,Debris Cover,True
+83,Snow Cover,Snow Cover,True
+560,Moraine Dammed,Moraine,False
+520,Moraine Dammed,Moraine,False
+873,Moraine Dammed,Turbidity,False
+121,Snow Cover,Snow Cover,True
+909,Moraine Dammed,Moraine,False
+1780,Moraine Dammed,Moraine,False
+941,Moraine Dammed,Moraine,False
+1445,Moraine Dammed,Moraine,False
+596,Moraine Dammed,Moraine,False
+2262,Varying Turbidity,Turbidity,False
+1185,Snow Cover,Snow Cover,True
+1647,Snow Cover,Snow Cover,True
+1808,Terrain Shadow,Terraine Shadow,False
+1192,Moraine Dammed,Moraine,False
+2087,Snow Cover,Snow Cover,True
+982,Snow Cover,Snow Cover,True
+636,Debris Cover,Debris Cover,True
+703,Snow Cover,Snow Cover,True
+2180,Debris Cover,Debris Cover,True
+1887,Moraine Dammed,Moraine,False
+669,Moraine Dammed,Moraine,False
+2083,Snow Cover,Snow Cover,True
+859,Debris Cover,Debris Cover,True
+1420,Debris Cover,Moraine,False
+764,Moraine Dammed,Moraine,False
+733,Moraine Dammed,Moraine,False
+1525,Debris Cover,Debris Cover,True
+2060,Debris Cover,Debris Cover,True
+1382,Moraine Dammed,Moraine,False
+1599,Moraine Dammed,Moraine,False
+991,Moraine Dammed,Moraine,False
+1207,Snow Cover,Snow Cover,True
+2313,Moraine Dammed,Moraine,False
+2194,Moraine Dammed,Moraine,False
+1195,Terrain Shadow,Terraine Shadow,False
+260,Snow Cover,Snow Cover,True
+439,Snow Cover,Moraine,False
+454,Moraine Dammed,Terraine Shadow,False
+1917,Terrain Shadow,Moraine,False
+875,Snow Cover,Snow Cover,True
+188,Moraine Dammed,Moraine,False
+222,Snow Cover,Snow Cover,True
+1460,Moraine Dammed,Moraine,False
+946,Moraine Dammed,Debris Cover,False
+794,Moraine Dammed,Snow Cover,False
+1985,Varying Turbidity,Moraine,False
+125,Debris Cover,Snow Cover,False
+802,Snow Cover,Terraine Shadow,False
+1037,Snow Cover,Snow Cover,True
+611,Snow Cover,Snow Cover,True
+1171,Snow Cover,Snow Cover,True
+1453,Debris Cover,Debris Cover,True
+213,Terrain Shadow,Terraine Shadow,False
+797,Moraine Dammed,Moraine,False
+1110,Terrain Shadow,Snow Cover,False
+1306,Debris Cover,Debris Cover,True
+678,Snow Cover,Snow Cover,True
+206,Moraine Dammed,Moraine,False
+1169,Moraine Dammed,Moraine,False
+2101,Moraine Dammed,Snow Cover,False
+269,Debris Cover,Debris Cover,True
+396,Moraine Dammed,Moraine,False
+102,Snow Cover,Snow Cover,True
+2201,Moraine Dammed,Moraine,False
+1312,Snow Cover,Snow Cover,True
+1456,Moraine Dammed,Moraine,False
+1427,Debris Cover,Debris Cover,True
+1936,Moraine Dammed,Moraine,False
+890,Moraine Dammed,Moraine,False
+944,Snow Cover,Snow Cover,True
+1831,Varying Turbidity,Turbidity,False
+1579,Snow Cover,Snow Cover,True
+1684,Varying Turbidity,Moraine,False
+1916,Varying Turbidity,Moraine,False
+1931,Terrain Shadow,Terraine Shadow,False
+1022,Moraine Dammed,Moraine,False
+6,Moraine Dammed,Moraine,False
+116,Moraine Dammed,Moraine,False
+2064,Snow Cover,Snow Cover,True
+50,Moraine Dammed,Moraine,False
+1824,Moraine Dammed,Moraine,False
+32,Snow Cover,Snow Cover,True
+1179,Moraine Dammed,Moraine,False
+633,Moraine Dammed,Moraine,False
+1165,Moraine Dammed,Moraine,False
+1162,Terrain Shadow,Terraine Shadow,False
+450,Moraine Dammed,Moraine,False
+1533,Snow Cover,Snow Cover,True
+415,Snow Cover,Snow Cover,True
+1926,Snow Cover,Snow Cover,True
+2160,Snow Cover,Snow Cover,True
+1584,Snow Cover,Snow Cover,True
+934,Snow Cover,Snow Cover,True
+901,Debris Cover,Snow Cover,False
+162,Snow Cover,Snow Cover,True
+1699,Snow Cover,Debris Cover,False
+986,Debris Cover,Debris Cover,True
+2110,Snow Cover,Snow Cover,True
+282,Moraine Dammed,Moraine,False
+924,Snow Cover,Snow Cover,True
+1510,Terrain Shadow,Terraine Shadow,False
+980,Moraine Dammed,Moraine,False
+1468,Snow Cover,Snow Cover,True
+302,Snow Cover,Snow Cover,True
+466,Snow Cover,Moraine,False
+1469,Snow Cover,Snow Cover,True
+1131,Snow Cover,Snow Cover,True
+1736,Varying Turbidity,Turbidity,False
+274,Terrain Shadow,Terraine Shadow,False
+1357,Moraine Dammed,Moraine,False
+352,Terrain Shadow,Moraine,False
+1865,Moraine Dammed,Moraine,False
+709,Terrain Shadow,Terraine Shadow,False
+1047,Moraine Dammed,Moraine,False
+1314,Snow Cover,Snow Cover,True
+270,Debris Cover,Debris Cover,True
+1079,Terrain Shadow,Moraine,False
+130,Snow Cover,Snow Cover,True
+482,Snow Cover,Snow Cover,True
+221,Debris Cover,Debris Cover,True
+1206,Terrain Shadow,Terraine Shadow,False
+316,Snow Cover,Moraine,False
+372,Snow Cover,Snow Cover,True
+2281,Moraine Dammed,Moraine,False
+1863,Moraine Dammed,Moraine,False
+513,Moraine Dammed,Moraine,False
+47,Moraine Dammed,Moraine,False
+1209,Moraine Dammed,Moraine,False
+2292,Snow Cover,Snow Cover,True
+15,Moraine Dammed,Moraine,False
+88,Moraine Dammed,Snow Cover,False
+834,Moraine Dammed,Moraine,False
+2184,Moraine Dammed,Terraine Shadow,False
+147,Snow Cover,Snow Cover,True
+1949,Snow Cover,Snow Cover,True
+589,Snow Cover,Snow Cover,True
+1620,Varying Turbidity,Moraine,False
+2188,Varying Turbidity,Moraine,False
+726,Moraine Dammed,Moraine,False
+197,Debris Cover,Debris Cover,True
+172,Debris Cover,Moraine,False
+1479,Snow Cover,Moraine,False
+988,Snow Cover,Snow Cover,True
+140,Snow Cover,Snow Cover,True
+306,Terrain Shadow,Moraine,False
+124,Debris Cover,Debris Cover,True
+2010,Snow Cover,Snow Cover,True
+220,Debris Cover,Debris Cover,True
+418,Terrain Shadow,Terraine Shadow,False
+575,Debris Cover,Debris Cover,True
+992,Snow Cover,Snow Cover,True
+1621,Debris Cover,Debris Cover,True
+1480,Snow Cover,Snow Cover,True
+1561,Moraine Dammed,Moraine,False
+936,Snow Cover,Snow Cover,True
+1222,Moraine Dammed,Moraine,False
+289,Moraine Dammed,Moraine,False
+1485,Terrain Shadow,Terraine Shadow,False
+1244,Terrain Shadow,Terraine Shadow,False
+1061,Snow Cover,Snow Cover,True

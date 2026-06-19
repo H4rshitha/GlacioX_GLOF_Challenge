@@ -1,3 +1,7 @@
 *.pth filter=lfs diff=lfs merge=lfs -text
 *.h5 filter=lfs diff=lfs merge=lfs -text
 *.onnx filter=lfs diff=lfs merge=lfs -text
+Validation[[:space:]]Phase/model.onnx filter=lfs diff=lfs merge=lfs -text
+Validation[[:space:]]Phase/model.onnx.data filter=lfs diff=lfs merge=lfs -text
+Validation[[:space:]]Phase/model.pth filter=lfs diff=lfs merge=lfs -text
+Validation[[:space:]]Phase/model.h5 filter=lfs diff=lfs merge=lfs -text
