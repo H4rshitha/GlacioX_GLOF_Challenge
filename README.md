@@ -137,7 +137,7 @@ The repository contains the complete deliverables for the GLOF Challenge:
 | **Reports** | Markdown reports: `dataset_diagnostic_report.md`, `evaluation_report.md`, `robustness_report.md`, and `technical_report.md` | ✓ |
 | **README** | Root `README.md` (this file) & phase-specific READMEs | ✓ |
 | **Requirements** | Project package dependencies (`requirements.txt`) | ✓ |
-| **Explanation Video** | [Watch Project demonstration Video](https://youtu.be/QegcqrI3b38?si=OBCqAut1vDe70vHe) | ✓ |
+| **Explanation Video** | [Watch Project demonstration Video](https://youtu.be/1hpBj9pNhYY) | ✓ |
 
 ---
 
