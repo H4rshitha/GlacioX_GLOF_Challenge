@@ -1,4 +1,4 @@
-#  GLOF Eagles 2026 
+#  GLOF Eagles 2026 Challenge
 
 ## Explanation Video
 
