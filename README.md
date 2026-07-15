@@ -9,8 +9,8 @@
 
 ##  Overview
 A complete, production-ready dual-task deep learning pipeline designed for the **GlacioX Glacial Lake Outburst Flood (GLOF) Challenge**:
-- **Stage 1 (Classification):** 6-class classification to categorize the environmental setting of the lake region (`Cloud Cover`, `Debris Cover`, `Moraine Dammed`, `Snow Cover`, `Terrain Shadow`, `Varying Turbidity`).
-- **Stage 2 (Segmentation):** Category-aware binary lake segmentation using specialized lake-centered patch mining and multi-scale curriculum training to handle tiny lakes, class imbalance, and extreme weather interference.
+- **Stage 1 (Classification Task):** 6-class classification to categorize the environmental setting of the lake region (`Cloud Cover`, `Debris Cover`, `Moraine Dammed`, `Snow Cover`, `Terrain Shadow`, `Varying Turbidity`).
+- **Stage 2 (Segmentation Task):** Category-aware binary lake segmentation using specialized lake-centered patch mining and multi-scale curriculum training to handle tiny lakes, class imbalance, and extreme weather interference.
 
 ---
 
